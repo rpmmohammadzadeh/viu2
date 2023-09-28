@@ -1,23 +1,5 @@
 
 :root {
-    --measureLineHeightLineHeightLineheights0: 20px;    
-    --measureLineHeightLineHeightLineheights1: 22px;    
-    --measureLineHeightLineHeightLineheights2: 28px;    
-    --measureLineHeightLineHeightLineheights3: 16px;    
-    --measureLineHeightLineHeightLineheights4: 14px;    
-    --measureLineHeightLineHeightLineheights5: 30px;    
-    --measureLineHeightLineHeightLineheights6: 120px;    
-    --measureLineHeightLineHeightLineheights7: 90px;    
-    --measureLineHeightLineHeightLineheights8: 80px;    
-    --measureLineHeightLineHeightLineheights9: 52px;    
-    --measureLineHeightLineHeightLineheights10: 46px;    
-    --measureLineHeightLineHeightLineheights11: 40px;    
-    --measureLineHeightLineHeightLineheights12: 32px;    
-    --measureLineHeightLineHeightLineheights13: 24px;    
-    --measureLineHeightLineHeightLineheights14: 70px;    
-    --measureLineHeightLineHeightLineheights15: 50px;    
-    --measureLineHeightLineHeightLineheights16: 44px;    
-    --measureLineHeightLineHeightLineheights17: 36px;    
     --measureLetterSpacingLetterSpacingLetterspacing0: 0px;    
     --measureLetterSpacingLetterSpacingLetterspacing1: 0%;    
     --measureParagraphSpacingParagraphSpacingParagraphspacing0: 0px;    
@@ -41,10 +23,28 @@
     --measureFontSizeFontSize16: 60px;    
     --measureFontSizeFontSize17: 80px;    
     --measureFontSizeFontSize18: 112px;    
-    --measureLineHeightLineHeightTypographyHeadingH1LineHeightDesktop: var(--measureLineHeightLineHeightLineheights9);    
-    --measureLineHeightLineHeightTypographyHeadingH1LineHeightTablet: var(--measureLineHeightLineHeightLineheights10);    
-    --measureLineHeightLineHeightTypographyHeadingH1LineHeightMobile: var(--measureLineHeightLineHeightLineheights17);    
+    --measureLineHeightLineHeightRef0: 20px;    
+    --measureLineHeightLineHeightRef1: 22px;    
+    --measureLineHeightLineHeightRef2: 28px;    
+    --measureLineHeightLineHeightRef3: 16px;    
+    --measureLineHeightLineHeightRef4: 14px;    
+    --measureLineHeightLineHeightRef5: 30px;    
+    --measureLineHeightLineHeightRef6: 120px;    
+    --measureLineHeightLineHeightRef7: 90px;    
+    --measureLineHeightLineHeightRef8: 80px;    
+    --measureLineHeightLineHeightRef9: 52px;    
+    --measureLineHeightLineHeightRef10: 46px;    
+    --measureLineHeightLineHeightRef11: 40px;    
+    --measureLineHeightLineHeightRef12: 32px;    
+    --measureLineHeightLineHeightRef13: 24px;    
+    --measureLineHeightLineHeightRef14: 70px;    
+    --measureLineHeightLineHeightRef15: 50px;    
+    --measureLineHeightLineHeightRef16: 44px;    
+    --measureLineHeightLineHeightRef17: 36px;    
     --measureFontSizeFontSizeTypographyHeadingH1Desktop: var(--measureFontSizeFontSize15);    
     --measureFontSizeFontSizeTypographyHeadingH1Tablet: var(--measureFontSizeFontSize13);    
     --measureFontSizeFontSizeTypographyHeadingH1Mobile: var(--measureFontSizeFontSize10);    
+    --measureLineHeightLineHeightHeadingH1Mobile: var(--measureLineHeightLineHeightRef17);    
+    --measureLineHeightLineHeightHeadingH1Tablet: var(--measureLineHeightLineHeightRef10);    
+    --measureLineHeightLineHeightHeadingH1Desktop: var(--measureLineHeightLineHeightRef9);    
 }
