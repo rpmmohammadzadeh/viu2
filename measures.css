@@ -1,30 +1,10 @@
 
 :root {
-    --measureLetterSpacingLetterSpacingLetterspacing0: 0px;    
-    --measureLetterSpacingLetterSpacingLetterspacing1: 0%;    
     --measureParagraphSpacingParagraphSpacingParagraphspacing0: 0px;    
     --measureDimensionDimensionParagraphindent0: 0px;    
-    --measureFontSizeFontSize0: 10px;    
-    --measureFontSizeFontSize1: 12px;    
-    --measureFontSizeFontSize2: 14px;    
-    --measureFontSizeFontSize3: 16px;    
-    --measureFontSizeFontSize4: 17px;    
-    --measureFontSizeFontSize5: 18px;    
-    --measureFontSizeFontSize6: 20px;    
-    --measureFontSizeFontSize7: 24px;    
-    --measureFontSizeFontSize8: 26px;    
-    --measureFontSizeFontSize9: 28px;    
-    --measureFontSizeFontSize10: 30px;    
-    --measureFontSizeFontSize11: 32px;    
-    --measureFontSizeFontSize12: 36px;    
-    --measureFontSizeFontSize13: 40px;    
-    --measureFontSizeFontSize14: 46px;    
-    --measureFontSizeFontSize15: 48px;    
-    --measureFontSizeFontSize16: 60px;    
-    --measureFontSizeFontSize17: 80px;    
-    --measureFontSizeFontSize18: 112px;    
-    --measureLineHeightLineHeightRef0: 20px;    
-    --measureLineHeightLineHeightRef1: 22px;    
+    --measureFontSizeFontSizeTypographyHeadingH1Desktop: 50px;    
+    --measureFontSizeFontSizeTypographyHeadingH1Tablet: 24px;    
+    --measureFontSizeFontSizeTypographyHeadingH1Mobile: 46px;    
     --measureLineHeightLineHeightRef2: 28px;    
     --measureLineHeightLineHeightRef3: 16px;    
     --measureLineHeightLineHeightRef4: 14px;    
@@ -41,9 +21,9 @@
     --measureLineHeightLineHeightRef15: 50px;    
     --measureLineHeightLineHeightRef16: 44px;    
     --measureLineHeightLineHeightRef17: 36px;    
-    --measureFontSizeFontSizeTypographyHeadingH1Desktop: var(--measureFontSizeFontSize15);    
-    --measureFontSizeFontSizeTypographyHeadingH1Tablet: var(--measureFontSizeFontSize13);    
-    --measureFontSizeFontSizeTypographyHeadingH1Mobile: var(--measureFontSizeFontSize10);    
+    --measureLetterSpacingLetterSpacingRef0: 0px;    
+    --measureLetterSpacingLetterSpacingRef1: 0%;    
+    --measureFontSizeFontSizeRef18: 112px;    
     --measureLineHeightLineHeightHeadingH1Mobile: var(--measureLineHeightLineHeightRef17);    
     --measureLineHeightLineHeightHeadingH1Tablet: var(--measureLineHeightLineHeightRef10);    
     --measureLineHeightLineHeightHeadingH1Desktop: var(--measureLineHeightLineHeightRef9);    
