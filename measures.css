@@ -41,4 +41,10 @@
     --measureLetterSpacingLetterSpacingLetterspacing1: 0%;    
     --measureParagraphSpacingParagraphSpacingParagraphspacing0: 0px;    
     --measureDimensionDimensionParagraphindent0: 0px;    
+    --measureFontSizeFontSizeTypographyHeadingH1FontSizeDesktop: var(--measureFontSizeFontSizeFontsize15);    
+    --measureFontSizeFontSizeTypographyHeadingH1FontSizeTablet: var(--measureFontSizeFontSizeFontsize13);    
+    --measureFontSizeFontSizeTypographyHeadingH1FontSizeMobile: var(--measureFontSizeFontSizeFontsize10);    
+    --measureLineHeightLineHeightTypographyHeadingH1LineHeightDesktop: var(--measureLineHeightLineHeightLineheights9);    
+    --measureLineHeightLineHeightTypographyHeadingH1LineHeightTablet: var(--measureLineHeightLineHeightLineheights10);    
+    --measureLineHeightLineHeightTypographyHeadingH1LineHeightMobile: var(--measureLineHeightLineHeightLineheights17);    
 }
