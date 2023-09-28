@@ -35,6 +35,7 @@
     --colorSecondarySunset500: #f6bd4e;    
     --colorSecondarySunset700: #914c07;    
     --colorSecondarySunset800: #803d0d;    
+    --colorActionBackgroundPrimaryDefault: #e70000;    
     --colorSurfaceBackgroundPrimaryDefault: var(--colorNeutral100);    
     --colorSurfaceBackgroundPrimaryDisable: var(--colorNeutral200);    
     --colorSurfaceBackgroundSecondaryDefault: var(--colorNeutral200);    
@@ -47,7 +48,6 @@
     --colorSurfaceTextOnprimaryDisable: var(--colorNeutral400);    
     --colorSurfaceTextOnsecondaryDefault: var(--colorNeutral800);    
     --colorSurfaceTextOnsecondaryDisable: var(--colorNeutral400);    
-    --colorActionBackgroundPrimaryDefault: var(--colorPrimarySky600);    
     --colorActionBackgroundPrimaryHover: var(--colorPrimarySky700);    
     --colorActionBackgroundPrimaryFocus: var(--colorPrimarySky800);    
     --colorActionBackgroundPrimaryDisable: var(--colorNeutral300);    
