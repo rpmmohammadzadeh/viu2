@@ -47,4 +47,7 @@
     --measureFontSizeFontSizeTypographyHeadingH1Desktop: var(--measureFontSizeFontSizeFontsize15);    
     --measureFontSizeFontSizeTypographyHeadingH1Tablet: var(--measureFontSizeFontSizeFontsize13);    
     --measureFontSizeFontSizeTypographyHeadingH1Mobile: var(--measureFontSizeFontSizeFontsize10);    
+    --measureFontSizeHeadingH1Mobile: var(--measureFontSizeFontSizeFontsize13);    
+    --measureFontSizeHeadingH1Desktop: var(--measureFontSizeFontSizeFontsize15);    
+    --measureFontSizeHeadingH1Tablet: var(--measureFontSizeFontSizeFontsize12);    
 }
