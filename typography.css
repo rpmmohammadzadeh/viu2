@@ -1,855 +1,987 @@
-.typographyGeneralBodyBody 
+.typographyGeneralBodyBody
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
+  font-size: var(--fontSizeFontSizeFontsize2
+                   );
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralBodyBodyBold 
+.typographyGeneralBodyBodyBold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
+  font-size: var(--fontSizeFontSizeFontsize2
+                   );
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralBodyBodyBoldUnderlined 
+.typographyGeneralBodyBodyBoldUnderlined
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
+  font-size: var(--fontSizeFontSizeFontsize2
+                   );
   line-height: 12px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralBodyBodyUppercase 
+.typographyGeneralBodyBodyUppercase
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
+  font-size: var(--fontSizeFontSizeFontsize2
+                   );
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralBodyBodyBoldList 
+.typographyGeneralBodyBodyBoldList
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
+  font-size: var(--fontSizeFontSizeFontsize2
+                   );
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralBodyBodyLong 
+.typographyGeneralBodyBodyLong
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralBodyBodyLongBold 
+.typographyGeneralBodyBodyLongBold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralBodyBodyLongBoldUnderlined 
+.typographyGeneralBodyBodyLongBoldUnderlined
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralBodyBodySmallCta 
+.typographyGeneralBodyBodySmallCta
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 12px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralSmallSmall 
+.typographyGeneralSmallSmall
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
+  font-size: var(--fontSizeFontSizeFontsize1
+                   );
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralSmallSmallBold 
+.typographyGeneralSmallSmallBold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
+  font-size: var(--fontSizeFontSizeFontsize1
+                   );
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralSmallSmallBoldUnderlined 
+.typographyGeneralSmallSmallBoldUnderlined
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
+  font-size: var(--fontSizeFontSizeFontsize1
+                   );
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralSmallSmallBoldCrossed 
+.typographyGeneralSmallSmallBoldCrossed
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
+  font-size: var(--fontSizeFontSizeFontsize1
+                   );
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralSmallSmallBoldUppercase 
+.typographyGeneralSmallSmallBoldUppercase
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
+  font-size: var(--fontSizeFontSizeFontsize1
+                   );
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralTinyTiny 
+.typographyGeneralTinyTiny
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
-  font-size: var(--measureFontSizeFontSizeFontsize0);
+  font-size: var(--fontSizeFontSizeFontsize0
+                   );
   line-height: 17px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralTinyTinyBold 
+.typographyGeneralTinyTinyBold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize0);
+  font-size: var(--fontSizeFontSizeFontsize0
+                   );
   line-height: 17px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralTinyTinyBoldUnderlined 
+.typographyGeneralTinyTinyBoldUnderlined
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize0);
+  font-size: var(--fontSizeFontSizeFontsize0
+                   );
   line-height: 17px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralTinyTinyBoldUppercase 
+.typographyGeneralTinyTinyBoldUppercase
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize0);
+  font-size: var(--fontSizeFontSizeFontsize0
+                   );
   line-height: 17px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralAdditionalSubscript 
+.typographyGeneralAdditionalSubscript
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralAdditionalSuperscript 
+.typographyGeneralAdditionalSuperscript
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralAdditionalBlockquoteBody 
+.typographyGeneralAdditionalBlockquoteBody
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralAdditionalBlockquoteHeader 
+.typographyGeneralAdditionalBlockquoteHeader
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralAdditionalBulletText 
+.typographyGeneralAdditionalBulletText
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 18px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyGeneralAdditionalBulletTextSeconLevel 
+.typographyGeneralAdditionalBulletTextSeconLevel
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
+  font-size: var(--fontSizeFontSizeFontsize1
+                   );
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopUber 
+.typographyDesktopUber
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize18);
+  font-size: var(--fontSizeFontSizeFontsize18
+                   );
   line-height: 20px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopHero 
+.typographyDesktopHero
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize17);
+  font-size: var(--fontSizeFontSizeFontsize17
+                   );
   line-height: 24px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH1Deprecated_ 
+.typographyDesktopH1Deprecated_
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize16);
+  font-size: var(--fontSizeFontSizeFontsize16
+                   );
   line-height: 26px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH1 
+.typographyDesktopH1
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize15);
+  font-size: var(--fontSizeFontSizeFontsize15
+                   );
   line-height: 28px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH2 
+.typographyDesktopH2
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize13);
+  font-size: var(--fontSizeFontSizeFontsize13
+                   );
   line-height: 30px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH3 
+.typographyDesktopH3
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize9);
+  font-size: var(--fontSizeFontSizeFontsize9
+                   );
   line-height: 32px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH3Bold 
+.typographyDesktopH3Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize9);
+  font-size: var(--fontSizeFontSizeFontsize9
+                   );
   line-height: 32px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH4 
+.typographyDesktopH4
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
+  font-size: var(--fontSizeFontSizeFontsize7
+                   );
   line-height: 36px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH4Bold 
+.typographyDesktopH4Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
+  font-size: var(--fontSizeFontSizeFontsize7
+                   );
   line-height: 36px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH5 
+.typographyDesktopH5
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
+  font-size: var(--fontSizeFontSizeFontsize6
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH5Bold 
+.typographyDesktopH5Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
+  font-size: var(--fontSizeFontSizeFontsize6
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH6 
+.typographyDesktopH6
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
+  font-size: var(--fontSizeFontSizeFontsize5
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH6Bold 
+.typographyDesktopH6Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
+  font-size: var(--fontSizeFontSizeFontsize5
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyDesktopH6BoldUnderlined 
+.typographyDesktopH6BoldUnderlined
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
+  font-size: var(--fontSizeFontSizeFontsize5
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletUber 
+.typographyTabletUber
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize17);
+  font-size: var(--fontSizeFontSizeFontsize17
+                   );
   line-height: 24px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletHero 
+.typographyTabletHero
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize16);
+  font-size: var(--fontSizeFontSizeFontsize16
+                   );
   line-height: 26px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH1Deprecated_ 
+.typographyTabletH1Deprecated_
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize15);
+  font-size: var(--fontSizeFontSizeFontsize15
+                   );
   line-height: 28px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH1 
+.typographyTabletH1
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize13);
+  font-size: var(--fontSizeFontSizeFontsize13
+                   );
   line-height: 30px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH2 
+.typographyTabletH2
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize11);
+  font-size: var(--fontSizeFontSizeFontsize11
+                   );
   line-height: 32px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH3 
+.typographyTabletH3
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
+  font-size: var(--fontSizeFontSizeFontsize7
+                   );
   line-height: 36px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH3Bold 
+.typographyTabletH3Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
+  font-size: var(--fontSizeFontSizeFontsize7
+                   );
   line-height: 36px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH4 
+.typographyTabletH4
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
+  font-size: var(--fontSizeFontSizeFontsize6
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH4Bold 
+.typographyTabletH4Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
+  font-size: var(--fontSizeFontSizeFontsize6
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH5 
+.typographyTabletH5
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
+  font-size: var(--fontSizeFontSizeFontsize5
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH5Bold 
+.typographyTabletH5Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
+  font-size: var(--fontSizeFontSizeFontsize5
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH6 
+.typographyTabletH6
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH6Bold 
+.typographyTabletH6Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyTabletH6BoldUnderline 
+.typographyTabletH6BoldUnderline
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileUber 
+.typographyMobileUber
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize16);
+  font-size: var(--fontSizeFontSizeFontsize16
+                   );
   line-height: 46px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileHero 
+.typographyMobileHero
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize14);
+  font-size: var(--fontSizeFontSizeFontsize14
+                   );
   line-height: 48px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH1Deprecated_ 
+.typographyMobileH1Deprecated_
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize12);
+  font-size: var(--fontSizeFontSizeFontsize12
+                   );
   line-height: 60px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH1 
+.typographyMobileH1
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize10);
+  font-size: var(--fontSizeFontSizeFontsize10
+                   );
   line-height: 80px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH2 
+.typographyMobileH2
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize8);
+  font-size: var(--fontSizeFontSizeFontsize8
+                   );
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH3 
+.typographyMobileH3
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
+  font-size: var(--fontSizeFontSizeFontsize7
+                   );
   line-height: 18px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH3Bold 
+.typographyMobileH3Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
+  font-size: var(--fontSizeFontSizeFontsize7
+                   );
   line-height: 18px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH4 
+.typographyMobileH4
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
+  font-size: var(--fontSizeFontSizeFontsize6
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH4Bold 
+.typographyMobileH4Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
+  font-size: var(--fontSizeFontSizeFontsize6
+                   );
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH5 
+.typographyMobileH5
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize4);
+  font-size: var(--fontSizeFontSizeFontsize4
+                   );
   line-height: 12px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH5Bold 
+.typographyMobileH5Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize4);
+  font-size: var(--fontSizeFontSizeFontsize4
+                   );
   line-height: 12px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH6 
+.typographyMobileH6
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH6Bold 
+.typographyMobileH6Bold
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
   
 }    
 
-.typographyMobileH6BoldUnderline 
+.typographyMobileH6BoldUnderline
+  
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
+  font-size: var(--fontSizeFontSizeFontsize3
+                   );
   line-height: 10px;
   letter-spacing: 12px;
   text-indent: 0px;
