@@ -22,7 +22,7 @@
     --colorSpecialtySunsetPale: #ece6db;    
     --colorTransparentSky: #3a98e533;    
     --colorPrimarySky500: #3a98e5;    
-    --colorPrimarySky600: #1f7ac4;    
+    --colorPrimarySky600: #f20000;    
     --colorPrimarySky700: #1d67a3;    
     --colorPrimarySky800: #16558a;    
     --colorSecondarySalmon500: #f06e61;    
@@ -35,7 +35,6 @@
     --colorSecondarySunset500: #f6bd4e;    
     --colorSecondarySunset700: #914c07;    
     --colorSecondarySunset800: #803d0d;    
-    --colorActionBackgroundPrimaryDefault: #ff0000;    
     --colorSurfaceBackgroundPrimaryDefault: var(--colorNeutral100);    
     --colorSurfaceBackgroundPrimaryDisable: var(--colorNeutral200);    
     --colorSurfaceBackgroundSecondaryDefault: var(--colorNeutral200);    
@@ -48,6 +47,7 @@
     --colorSurfaceTextOnprimaryDisable: var(--colorNeutral400);    
     --colorSurfaceTextOnsecondaryDefault: var(--colorNeutral800);    
     --colorSurfaceTextOnsecondaryDisable: var(--colorNeutral400);    
+    --colorActionBackgroundPrimaryDefault: var(--colorPrimarySky600);    
     --colorActionBackgroundPrimaryHover: var(--colorPrimarySky700);    
     --colorActionBackgroundPrimaryFocus: var(--colorPrimarySky800);    
     --colorActionBackgroundPrimaryDisable: var(--colorNeutral300);    
