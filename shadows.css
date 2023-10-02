@@ -1,21 +1,12 @@
 
 :root {
-    --shadowShadowSizzleShadow
-      : 0 30px 30px -30px rgba(20,30,43,0.16);  
-    --shadowShadowHardSizzleShadow
-      : 0 30px 30px -16px rgba(20,30,43,0.06);  
-    --shadowShadowSoftSizzleShadow
-      : 0 20px 20px -20px rgba(20,30,43,0.1);  
-    --shadowShadowReverseSizzleShadow
-      : 0 -10px 30px -16px rgba(20,30,43,0.06);  
-    --shadowShadowSoftShadow
-      : 0 6px 14px 0 rgba(20,30,43,0.06);  
-    --shadowShadowMildShadow
-      : 0 8px 24px 0 rgba(20,30,43,0.08);  
-    --shadowShadowMediumShadow
-      : 0 6px 16px 0 rgba(20,30,43,0.1);  
-    --shadowShadowSpicyShadow
-      : 0 4px 8px 0 rgba(20,30,43,0.12);  
-    --shadowShadowLeftShadow
-      : -15px 0 20px 0 rgba(20,30,43,0.06);  
+    --shadowShadowSizzleShadow: 0 30px 30px -30px rgba(20,30,43,0.16);  
+    --shadowShadowHardSizzleShadow: 0 30px 30px -16px rgba(20,30,43,0.06);  
+    --shadowShadowSoftSizzleShadow: 0 20px 20px -20px rgba(20,30,43,0.1);  
+    --shadowShadowReverseSizzleShadow: 0 -10px 30px -16px rgba(20,30,43,0.06);  
+    --shadowShadowSoftShadow: 0 6px 14px 0 rgba(20,30,43,0.06);  
+    --shadowShadowMildShadow: 0 8px 24px 0 rgba(20,30,43,0.08);  
+    --shadowShadowMediumShadow: 0 6px 16px 0 rgba(20,30,43,0.1);  
+    --shadowShadowSpicyShadow: 0 4px 8px 0 rgba(20,30,43,0.12);  
+    --shadowShadowLeftShadow: -15px 0 20px 0 rgba(20,30,43,0.06);  
 }
