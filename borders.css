@@ -1,3 +1,7 @@
 
 :root {
+    --borderActionButtonPrimaryDefault: 1px solid var(--colorPrimarySky600);    
+    --borderActionButtonPrimaryHover: 1px solid var(--colorPrimarySky700);    
+    --borderActionButtonPrimaryFocus: 1px solid var(--colorPrimarySky800);    
+    --borderActionButtonPrimaryDisabled: 1px solid var(--colorNeutral400);    
 }
