@@ -74,4 +74,5 @@
     --measureFontSizeFontSizeFontsizeBodylong: var(--measureFontSizeFontSizeFontsize3);    
     --measureFontSizeFontSizeFontsizeSmall: var(--measureFontSizeFontSizeFontsize1);    
     --measureFontSizeFontSizeFontsizeTiny: var(--measureFontSizeFontSizeFontsize0);    
+    --measureLineHeightLineHeightLineheightBody: var(--measureLineHeightLineHeightLineheight0);    
 }
