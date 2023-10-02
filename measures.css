@@ -43,7 +43,6 @@
     --measureLetterSpacingLetterSpacingLetterspacing1: 0%;    
     --measureLineHeightLineHeightLineheightHeadingH1Mobile: 80px;    
     --measureLineHeightLineHeightLineheightHeadingH1Tablet: 30px;    
-    --measureLineHeightLineHeightLineheightHeadingH1Desktop: 28px;    
     --measureSizeSizingSize0: 4px;    
     --measureSizeSizingSize1: 8px;    
     --measureSizeSizingSize2: 16px;    
@@ -64,6 +63,7 @@
     --measureBorderRadiusBorderRadiusBorderradiusCardDesktop: 24px;    
     --measureBorderRadiusBorderRadiusBorderradiusCardTablet: 16px;    
     --measureBorderRadiusBorderRadiusBorderradiusCardMobile: 16px;    
+    --measureLineHeightLineHeightLineheightHeadingH1Desktop: var(--measureLineHeightLineHeightLineheight9);    
     --measureFontSizeFontSizeFontsizeHeadingH1Mobile: var(--measureFontSizeFontSizeFontsize10);    
     --measureFontSizeFontSizeFontsizeHeadingH1Tablet: var(--measureFontSizeFontSizeFontsize13);    
     --measureFontSizeFontSizeFontsizeHeadingH1Desktop: var(--measureFontSizeFontSizeFontsize15);    
