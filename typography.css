@@ -1,83 +1,11 @@
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBody
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize2
                    );
   line-height: 10px;
   letter-spacing: 10px;
@@ -85,86 +13,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBodyBold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize2
                    );
   line-height: 10px;
   letter-spacing: 10px;
@@ -172,86 +28,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBodyBoldUnderlined
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize2
                    );
   line-height: 12px;
   letter-spacing: 10px;
@@ -259,86 +43,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBodyUppercase
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize2
                    );
   line-height: 10px;
   letter-spacing: 10px;
@@ -346,86 +58,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBodyBoldList
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize2
                    );
   line-height: 10px;
   letter-spacing: 10px;
@@ -433,86 +73,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBodyLong
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 14px;
   letter-spacing: 10px;
@@ -520,86 +88,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBodyLongBold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 14px;
   letter-spacing: 10px;
@@ -607,86 +103,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBodyLongBoldUnderlined
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 14px;
   letter-spacing: 10px;
@@ -694,86 +118,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralBodyBodySmallCta
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 12px;
   letter-spacing: 10px;
@@ -781,86 +133,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralSmallSmall
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize1
                    );
   line-height: 16px;
   letter-spacing: 10px;
@@ -868,86 +148,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralSmallSmallBold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize1
                    );
   line-height: 16px;
   letter-spacing: 10px;
@@ -955,86 +163,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralSmallSmallBoldUnderlined
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize1
                    );
   line-height: 16px;
   letter-spacing: 10px;
@@ -1042,86 +178,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralSmallSmallBoldCrossed
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize1
                    );
   line-height: 16px;
   letter-spacing: 10px;
@@ -1129,86 +193,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralSmallSmallBoldUppercase
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize1
                    );
   line-height: 16px;
   letter-spacing: 10px;
@@ -1216,86 +208,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralTinyTiny
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize0
                    );
   line-height: 17px;
   letter-spacing: 10px;
@@ -1303,86 +223,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralTinyTinyBold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize0
                    );
   line-height: 17px;
   letter-spacing: 10px;
@@ -1390,86 +238,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralTinyTinyBoldUnderlined
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize0
                    );
   line-height: 17px;
   letter-spacing: 10px;
@@ -1477,86 +253,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralTinyTinyBoldUppercase
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize0
                    );
   line-height: 17px;
   letter-spacing: 10px;
@@ -1564,86 +268,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralAdditionalSubscript
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 14px;
   letter-spacing: 10px;
@@ -1651,86 +283,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralAdditionalSuperscript
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 14px;
   letter-spacing: 10px;
@@ -1738,86 +298,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralAdditionalBlockquoteBody
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 14px;
   letter-spacing: 10px;
@@ -1825,86 +313,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralAdditionalBlockquoteHeader
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 14px;
   letter-spacing: 10px;
@@ -1912,86 +328,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralAdditionalBulletText
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 18px;
   letter-spacing: 10px;
@@ -1999,86 +343,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyGeneralAdditionalBulletTextSeconLevel
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize1
                    );
   line-height: 16px;
   letter-spacing: 10px;
@@ -2086,86 +358,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopUber
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize18
                    );
   line-height: 20px;
   letter-spacing: 10px;
@@ -2173,86 +373,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopHero
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize17
                    );
   line-height: 24px;
   letter-spacing: 10px;
@@ -2260,86 +388,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH1Deprecated_
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize16
                    );
   line-height: 26px;
   letter-spacing: 10px;
@@ -2347,86 +403,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH1
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize15
                    );
   line-height: 28px;
   letter-spacing: 10px;
@@ -2434,86 +418,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH2
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize13
                    );
   line-height: 30px;
   letter-spacing: 10px;
@@ -2521,86 +433,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH3
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize9
                    );
   line-height: 32px;
   letter-spacing: 10px;
@@ -2608,86 +448,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH3Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize9
                    );
   line-height: 32px;
   letter-spacing: 10px;
@@ -2695,86 +463,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH4
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize7
                    );
   line-height: 36px;
   letter-spacing: 10px;
@@ -2782,86 +478,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH4Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize7
                    );
   line-height: 36px;
   letter-spacing: 10px;
@@ -2869,86 +493,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH5
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize6
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -2956,86 +508,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH5Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize6
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -3043,86 +523,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH6
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize5
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -3130,86 +538,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH6Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize5
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -3217,86 +553,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyDesktopH6BoldUnderlined
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize5
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -3304,86 +568,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletUber
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize17
                    );
   line-height: 24px;
   letter-spacing: 10px;
@@ -3391,86 +583,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletHero
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize16
                    );
   line-height: 26px;
   letter-spacing: 10px;
@@ -3478,86 +598,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH1Deprecated_
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize15
                    );
   line-height: 28px;
   letter-spacing: 10px;
@@ -3565,86 +613,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH1
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize13
                    );
   line-height: 30px;
   letter-spacing: 10px;
@@ -3652,86 +628,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH2
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize11
                    );
   line-height: 32px;
   letter-spacing: 10px;
@@ -3739,86 +643,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH3
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize7
                    );
   line-height: 36px;
   letter-spacing: 10px;
@@ -3826,86 +658,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH3Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize7
                    );
   line-height: 36px;
   letter-spacing: 10px;
@@ -3913,86 +673,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH4
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize6
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -4000,86 +688,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH4Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize6
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -4087,86 +703,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH5
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize5
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -4174,86 +718,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH5Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize5
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -4261,86 +733,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH6
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -4348,86 +748,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH6Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -4435,86 +763,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyTabletH6BoldUnderline
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -4522,86 +778,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileUber
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize16
                    );
   line-height: 46px;
   letter-spacing: 10px;
@@ -4609,86 +793,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileHero
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize14
                    );
   line-height: 48px;
   letter-spacing: 10px;
@@ -4696,86 +808,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH1Deprecated_
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize12
                    );
   line-height: 60px;
   letter-spacing: 10px;
@@ -4783,86 +823,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH1
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize10
                    );
   line-height: 80px;
   letter-spacing: 10px;
@@ -4870,86 +838,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH2
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize8
                    );
   line-height: 14px;
   letter-spacing: 10px;
@@ -4957,86 +853,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH3
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize7
                    );
   line-height: 18px;
   letter-spacing: 10px;
@@ -5044,86 +868,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH3Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize7
                    );
   line-height: 18px;
   letter-spacing: 10px;
@@ -5131,86 +883,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH4
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize6
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -5218,86 +898,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH4Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize6
                    );
   line-height: 40px;
   letter-spacing: 10px;
@@ -5305,86 +913,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH5
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize4
                    );
   line-height: 12px;
   letter-spacing: 10px;
@@ -5392,86 +928,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH5Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize4
                    );
   line-height: 12px;
   letter-spacing: 10px;
@@ -5479,86 +943,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH6
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 10px;
   letter-spacing: 10px;
@@ -5566,86 +958,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH6Bold
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 10px;
   letter-spacing: 10px;
@@ -5653,86 +973,14 @@
   
 }    
 
-.
- 
- 
- const tokenGroups = new Set()
- for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-   tokenGroups.add(tokenGroup)
- }
- const tokenGroup = tokenGroups.values().next().value
- 
- let prefix = ""
- 
- switch (context.tokenType) {
-   case "Color":
-     prefix = behavior.colorTokenPrefix
-     break
-   case "Typography":
-     prefix = behavior.typographyTokenPrefix
-     break
-   case "Shadow":
-     prefix = behavior.shadowTokenPrefix
-     break
-   case "Border":
-     prefix = behavior.borderTokenPrefix
-     break
-   case "Measure":
-     prefix = behavior.measureTokenPrefix
-     break
-   case "Gradient":
-     prefix = behavior.gradientTokenPrefix
-     break
-   default:
-     prefix = ""
- }
- 
- let tokenName = readableVariableName(context, tokenGroup, prefix)
- 
- undefined
+.typographyMobileH6BoldUnderline
   
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--
-                   
-                   
-                   const tokenGroups = new Set()
-                   for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
-                     tokenGroups.add(tokenGroup)
-                   }
-                   const tokenGroup = tokenGroups.values().next().value
-                   
-                   let prefix = ""
-                   
-                   switch (context.tokenType) {
-                     case "Color":
-                       prefix = behavior.colorTokenPrefix
-                       break
-                     case "Typography":
-                       prefix = behavior.typographyTokenPrefix
-                       break
-                     case "Shadow":
-                       prefix = behavior.shadowTokenPrefix
-                       break
-                     case "Border":
-                       prefix = behavior.borderTokenPrefix
-                       break
-                     case "Measure":
-                       prefix = behavior.measureTokenPrefix
-                       break
-                     case "Gradient":
-                       prefix = behavior.gradientTokenPrefix
-                       break
-                     default:
-                       prefix = ""
-                   }
-                   
-                   let tokenName = readableVariableName(context, tokenGroup, prefix)
-                   
-                   undefined
+  font-size: var(--measureFontSizeFontSizeFontsize3
                    );
   line-height: 10px;
   letter-spacing: 12px;
