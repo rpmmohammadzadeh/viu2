@@ -1,21 +1,345 @@
 
 :root {
-    --shadowShadowSizzleShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : 0 30px 30px -30px rgba(20,30,43,0.16);  
-    --shadowShadowHardSizzleShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : 0 30px 30px -16px rgba(20,30,43,0.06);  
-    --shadowShadowSoftSizzleShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : 0 20px 20px -20px rgba(20,30,43,0.1);  
-    --shadowShadowReverseSizzleShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : 0 -10px 30px -16px rgba(20,30,43,0.06);  
-    --shadowShadowSoftShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : 0 6px 14px 0 rgba(20,30,43,0.06);  
-    --shadowShadowMildShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : 0 8px 24px 0 rgba(20,30,43,0.08);  
-    --shadowShadowMediumShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : 0 6px 16px 0 rgba(20,30,43,0.1);  
-    --shadowShadowSpicyShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : 0 4px 8px 0 rgba(20,30,43,0.12);  
-    --shadowShadowLeftShadow
+    --
+      
+      
+      const tokenGroups = new Set()
+      for (const tokenGroup of ds.tokenGroupsContainingTokenId(context.id)) {
+        tokenGroups.add(tokenGroup)
+      }
+      const tokenGroup = tokenGroups.values().next().value
+      
+      let prefix = ""
+      
+      switch (context.tokenType) {
+        case "Color":
+          prefix = behavior.colorTokenPrefix
+          break
+        case "Typography":
+          prefix = behavior.typographyTokenPrefix
+          break
+        case "Shadow":
+          prefix = behavior.shadowTokenPrefix
+          break
+        case "Border":
+          prefix = behavior.borderTokenPrefix
+          break
+        case "Measure":
+          prefix = behavior.measureTokenPrefix
+          break
+        case "Gradient":
+          prefix = behavior.gradientTokenPrefix
+          break
+        default:
+          prefix = ""
+      }
+      
+      let tokenName = readableVariableName(context, tokenGroup, prefix)
+      
+      undefined
       : -15px 0 20px 0 rgba(20,30,43,0.06);  
 }
