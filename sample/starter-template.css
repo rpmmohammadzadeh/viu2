@@ -40,7 +40,7 @@ color: #212529;
   background-color: var(--colorActionBackgroundPrimaryDefault); 
   border: var(--borderActionButtonPrimaryDefault);
   border-radius: var(--measureBorderRadiusBorderRadiusBorderradiusButton);
-  margin-right: var(--measureSizeSizingSize4);;
+  margin-right: var(--measureSizeSizingSize3);
 }
 .btn-primary:hover {
   color: var(--colorActionTextOnprimaryDefault); 
