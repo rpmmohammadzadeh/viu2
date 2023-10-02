@@ -38,6 +38,7 @@ color: #212529;
   color: var(--colorActionTextOnprimaryDefault); 
   background-color: var(--colorActionBackgroundPrimaryDefault); 
   border-color: var(--colorActionBorderPrimaryDefault);
+  border-radius: var(--measureBorderRadiusBorderRadiusBorderradiusButton);
 }
 
 .btn-primary:hover {
@@ -65,13 +66,14 @@ h1 {
 
   /* Semantic measures */
   font-weight: 500;
-  font-size: var(--measureFontSizeFontSizeFontsize15);
-  line-height: var(--measureLineHeightLineHeightLineheights9);
+  font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Desktop);
+  line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Desktop);
   letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
   }
 
 @media (min-width:1200px){
   h1 {
-  font-size: 2.5rem;
+  font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Mobile);
+  line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Mobile);
   }
 }
