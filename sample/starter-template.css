@@ -37,7 +37,7 @@ color: #212529;
 .btn-primary {
   color: var(--colorActionTextOnprimaryDefault); 
   background-color: var(--colorActionBackgroundPrimaryDefault); 
-  border-color: var(--colorActionBorderPrimaryDefault);
+  border: var(--borderActionButtonPrimaryDefault);
   border-radius: var(--measureBorderRadiusBorderRadiusBorderradiusButton);
 }
 
@@ -55,25 +55,39 @@ a {
   color: var(--colorActionTextOnsecondaryHover); 
 }
 
-h1 {
-  display: block;
-  margin-block-start: 0.67em;
-  margin-block-end: 0.67em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  margin-top: 0;
-  margin-bottom: .5rem;
 
-  /* Semantic measures */
-  font-weight: 500;
-  font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Desktop);
-  line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Desktop);
-  letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-  }
+
+@media (min-width:960px){
+  h1 {
+    font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Mobile);
+    line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Mobile);
+    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
+    }
+  h2 {
+    font-size: var(--measureFontSizeFontSizeFontsizeHeadingH2Mobile);
+    line-height: var(--measureLineHeightLineHeightLineheightHeadingH2Mobile);
+    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
+    }
+
+
+}
 
 @media (min-width:1200px){
   h1 {
-  font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Mobile);
-  line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Mobile);
+    /* Semantic measures */
+    font-weight: 500;
+    font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Desktop);
+    line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Desktop);
+    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
+    }
+  h2 {
+    font-size: var(--measureFontSizeFontSizeFontsizeHeadingH2Desktop);
+    line-height: var(--measureLineHeightLineHeightLineheightHeadingH2Desktop);
+    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
+    }
+  p{
+    font-size: var(--measureFontSizeFontSizeFontsizeBody);
+    line-height: var(--measureLineHeightLineHeightLineheightBody);
+    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);   
   }
 }
