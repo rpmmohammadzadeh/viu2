@@ -46,7 +46,7 @@
     --measureSizeSizingSize0: 4px;    
     --measureSizeSizingSize1: 8px;    
     --measureSizeSizingSize2: 16px;    
-    --measureSizeSizingSize3: 48px;    
+    --measureSizeSizingSize3: 32px;    
     --measureSizeSizingSize4: 24px;    
     --measureSizeSizingSize5: 32px;    
     --measureSizeSizingSize6: 40px;    
@@ -63,6 +63,9 @@
     --measureBorderRadiusBorderRadiusBorderradiusCardDesktop: 24px;    
     --measureBorderRadiusBorderRadiusBorderradiusCardTablet: 16px;    
     --measureBorderRadiusBorderRadiusBorderradiusCardMobile: 16px;    
+    --measureSpaceSpacing0: 4px;    
+    --measureSpaceSpacing1: 8px;    
+    --measureSpaceSpacing2: 16px;    
     --measureLineHeightLineHeightLineheightHeadingH1Desktop: var(--measureLineHeightLineHeightLineheight9);    
     --measureFontSizeFontSizeFontsizeHeadingH1Mobile: var(--measureFontSizeFontSizeFontsize10);    
     --measureFontSizeFontSizeFontsizeHeadingH1Tablet: var(--measureFontSizeFontSizeFontsize13);    
@@ -75,4 +78,7 @@
     --measureFontSizeFontSizeFontsizeSmall: var(--measureFontSizeFontSizeFontsize1);    
     --measureFontSizeFontSizeFontsizeTiny: var(--measureFontSizeFontSizeFontsize0);    
     --measureLineHeightLineHeightLineheightBody: var(--measureLineHeightLineHeightLineheight0);    
+    --measureSpaceSpacingButtonMargin: var(--measureSpaceSpacing2);    
+    --measureSpaceSpacingButtonPadding: var(--measureSpaceSpacing2);    
+    --measureSpaceSpacingHeadingH1: var(--measureSpaceSpacing2);    
 }
