@@ -33,6 +33,11 @@ font-size: 1rem;
 color: #212529;
 }
 
+/* Section */
+.row {
+  padding-top: var(--measureSpaceSpacingSpacingSectionDesktop); 
+}
+
 
 /* Primary BTN */
 .btn-primary {
@@ -40,7 +45,7 @@ color: #212529;
   background-color: var(--colorActionBackgroundPrimaryDefault); 
   border: var(--borderActionButtonPrimaryDefault);
   border-radius: var(--measureBorderRadiusBorderRadiusBorderradiusButton);
-  margin-right: var(--measureSizeSizingSize3);
+  margin-right: var(--measureSpaceSpacingSpacingButtonMargin);
 }
 .btn-primary:hover {
   color: var(--colorActionTextOnprimaryDefault); 
@@ -75,40 +80,45 @@ a:hover {
 
 
 @media (min-width:960px){
+  .row {
+    padding-top: var(--measureSpaceSpacingSpacingSectionMobile); 
+    }  
   h1 {
     font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Mobile);
     line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Mobile);
     letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSizeSizingSize3);
+    margin-bottom: var(--measureSpaceSpacingSpacingHeadingH1Mobile);
     }
   h2 {
     font-size: var(--measureFontSizeFontSizeFontsizeHeadingH2Mobile);
     line-height: var(--measureLineHeightLineHeightLineheightHeadingH2Mobile);
     letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSizeSizingSize2);
+    margin-bottom: var(--measureSpaceSpacingSpacingHeadingH2Mobile);
     }
-
 
 }
 
 @media (min-width:1200px){
+  .row {
+    padding-top: var(--measureSpaceSpacingSpacingSectionDesktop); 
+    }
   h1 {
     font-weight: 500;
     font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Desktop);
     line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Desktop);
     letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSizeSizingSize4);
+    margin-bottom: var(--measureSpaceSpacingSpacingHeadingH1Desktop);
     }
   h2 {
     font-size: var(--measureFontSizeFontSizeFontsizeHeadingH2Desktop);
     line-height: var(--measureLineHeightLineHeightLineheightHeadingH2Desktop);
     letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSizeSizingSize3);
+    margin-bottom: var(--measureSpaceSpacingSpacingHeadingH2Desktop);
     }
   p{
     font-size: var(--measureFontSizeFontSizeFontsizeBody);
     line-height: var(--measureLineHeightLineHeightLineheightBody);
     letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSizeSizingSize3);   
+    margin-bottom: var(--measureSpaceSpacingSpacingContentBodytext);   
   }
 }
