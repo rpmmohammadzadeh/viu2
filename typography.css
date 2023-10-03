@@ -4,7 +4,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize2);
+  font-size: var(--measureFontSizeFontSizeFontsize2);
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -17,7 +17,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize2);
+  font-size: var(--measureFontSizeFontSizeFontsize2);
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -30,7 +30,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize2);
+  font-size: var(--measureFontSizeFontSizeFontsize2);
   line-height: 12px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -43,7 +43,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize2);
+  font-size: var(--measureFontSizeFontSizeFontsize2);
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -56,7 +56,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize2);
+  font-size: var(--measureFontSizeFontSizeFontsize2);
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -69,7 +69,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -82,7 +82,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -95,7 +95,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -108,7 +108,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 12px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -121,7 +121,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize1);
+  font-size: var(--measureFontSizeFontSizeFontsize1);
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -134,7 +134,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize1);
+  font-size: var(--measureFontSizeFontSizeFontsize1);
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -147,7 +147,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize1);
+  font-size: var(--measureFontSizeFontSizeFontsize1);
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -160,7 +160,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize1);
+  font-size: var(--measureFontSizeFontSizeFontsize1);
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -173,7 +173,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize1);
+  font-size: var(--measureFontSizeFontSizeFontsize1);
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -186,7 +186,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
-  font-size: var(--measureFontSizeFontSizeFontSize0);
+  font-size: var(--measureFontSizeFontSizeFontsize0);
   line-height: 17px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -199,7 +199,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize0);
+  font-size: var(--measureFontSizeFontSizeFontsize0);
   line-height: 17px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -212,7 +212,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize0);
+  font-size: var(--measureFontSizeFontSizeFontsize0);
   line-height: 17px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -225,7 +225,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize0);
+  font-size: var(--measureFontSizeFontSizeFontsize0);
   line-height: 17px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -238,7 +238,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -251,7 +251,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -264,7 +264,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -277,7 +277,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -290,7 +290,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 18px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -303,7 +303,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize1);
+  font-size: var(--measureFontSizeFontSizeFontsize1);
   line-height: 16px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -316,7 +316,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize18);
+  font-size: var(--measureFontSizeFontSizeFontsize18);
   line-height: 20px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -329,7 +329,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize17);
+  font-size: var(--measureFontSizeFontSizeFontsize17);
   line-height: 24px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -342,7 +342,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize16);
+  font-size: var(--measureFontSizeFontSizeFontsize16);
   line-height: 26px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -355,7 +355,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize15);
+  font-size: var(--measureFontSizeFontSizeFontsize15);
   line-height: 28px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -368,7 +368,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize13);
+  font-size: var(--measureFontSizeFontSizeFontsize13);
   line-height: 30px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -381,7 +381,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize9);
+  font-size: var(--measureFontSizeFontSizeFontsize9);
   line-height: 32px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -394,7 +394,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize9);
+  font-size: var(--measureFontSizeFontSizeFontsize9);
   line-height: 32px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -407,7 +407,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize7);
+  font-size: var(--measureFontSizeFontSizeFontsize7);
   line-height: 36px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -420,7 +420,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize7);
+  font-size: var(--measureFontSizeFontSizeFontsize7);
   line-height: 36px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -433,7 +433,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize6);
+  font-size: var(--measureFontSizeFontSizeFontsize6);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -446,7 +446,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize6);
+  font-size: var(--measureFontSizeFontSizeFontsize6);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -459,7 +459,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize5);
+  font-size: var(--measureFontSizeFontSizeFontsize5);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -472,7 +472,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize5);
+  font-size: var(--measureFontSizeFontSizeFontsize5);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -485,7 +485,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize5);
+  font-size: var(--measureFontSizeFontSizeFontsize5);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -498,7 +498,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize17);
+  font-size: var(--measureFontSizeFontSizeFontsize17);
   line-height: 24px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -511,7 +511,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize16);
+  font-size: var(--measureFontSizeFontSizeFontsize16);
   line-height: 26px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -524,7 +524,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize15);
+  font-size: var(--measureFontSizeFontSizeFontsize15);
   line-height: 28px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -537,7 +537,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize13);
+  font-size: var(--measureFontSizeFontSizeFontsize13);
   line-height: 30px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -550,7 +550,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize11);
+  font-size: var(--measureFontSizeFontSizeFontsize11);
   line-height: 32px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -563,7 +563,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize7);
+  font-size: var(--measureFontSizeFontSizeFontsize7);
   line-height: 36px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -576,7 +576,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize7);
+  font-size: var(--measureFontSizeFontSizeFontsize7);
   line-height: 36px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -589,7 +589,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize6);
+  font-size: var(--measureFontSizeFontSizeFontsize6);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -602,7 +602,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize6);
+  font-size: var(--measureFontSizeFontSizeFontsize6);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -615,7 +615,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize5);
+  font-size: var(--measureFontSizeFontSizeFontsize5);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -628,7 +628,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize5);
+  font-size: var(--measureFontSizeFontSizeFontsize5);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -641,7 +641,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -654,7 +654,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -667,7 +667,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -680,7 +680,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize16);
+  font-size: var(--measureFontSizeFontSizeFontsize16);
   line-height: 46px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -693,7 +693,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize14);
+  font-size: var(--measureFontSizeFontSizeFontsize14);
   line-height: 48px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -706,7 +706,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize12);
+  font-size: var(--measureFontSizeFontSizeFontsize12);
   line-height: 60px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -719,7 +719,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize10);
+  font-size: var(--measureFontSizeFontSizeFontsize10);
   line-height: 80px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -732,7 +732,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize8);
+  font-size: var(--measureFontSizeFontSizeFontsize8);
   line-height: 14px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -745,7 +745,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize7);
+  font-size: var(--measureFontSizeFontSizeFontsize7);
   line-height: 18px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -758,7 +758,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize7);
+  font-size: var(--measureFontSizeFontSizeFontsize7);
   line-height: 18px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -771,7 +771,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize6);
+  font-size: var(--measureFontSizeFontSizeFontsize6);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -784,7 +784,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize6);
+  font-size: var(--measureFontSizeFontSizeFontsize6);
   line-height: 40px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -797,7 +797,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontSize4);
+  font-size: var(--measureFontSizeFontSizeFontsize4);
   line-height: 12px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -810,7 +810,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize4);
+  font-size: var(--measureFontSizeFontSizeFontsize4);
   line-height: 12px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -823,7 +823,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -836,7 +836,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 10px;
   letter-spacing: 10px;
   text-indent: 0px;
@@ -849,7 +849,7 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontSize3);
+  font-size: var(--measureFontSizeFontSizeFontsize3);
   line-height: 10px;
   letter-spacing: 12px;
   text-indent: 0px;
