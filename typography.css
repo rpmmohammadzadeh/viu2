@@ -336,19 +336,6 @@
   
 }    
 
-.typographyDesktopH1Deprecated_ 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize16);
-  line-height: 26px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
 .typographyDesktopH1 
  {
   
@@ -518,19 +505,6 @@
   
 }    
 
-.typographyTabletH1Deprecated_ 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize15);
-  line-height: 28px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
 .typographyTabletH1 
  {
   
@@ -695,19 +669,6 @@
   font-weight: 700;
   font-size: var(--measureFontSizeFontSizeFontSize14);
   line-height: 48px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH1Deprecated_ 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontSize12);
-  line-height: 60px;
   letter-spacing: 10px;
   text-indent: 0px;
   
