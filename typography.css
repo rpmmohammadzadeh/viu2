@@ -1,858 +1,126 @@
-.typographyGeneralBodyBody 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
-  line-height: 10px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralBodyBodyBold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
-  line-height: 10px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralBodyBodyBoldUnderlined 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
-  line-height: 12px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralBodyBodyUppercase 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
-  line-height: 10px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralBodyBodyBoldList 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize2);
-  line-height: 10px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralBodyBodyLong 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 14px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralBodyBodyLongBold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 14px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralBodyBodyLongBoldUnderlined 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 14px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralBodyBodySmallCta 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 12px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralSmallSmall 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
-  line-height: 16px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralSmallSmallBold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
-  line-height: 16px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralSmallSmallBoldUnderlined 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
-  line-height: 16px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralSmallSmallBoldCrossed 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
-  line-height: 16px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralSmallSmallBoldUppercase 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
-  line-height: 16px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralTinyTiny 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 500;
-  font-size: var(--measureFontSizeFontSizeFontsize0);
-  line-height: 17px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralTinyTinyBold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize0);
-  line-height: 17px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralTinyTinyBoldUnderlined 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize0);
-  line-height: 17px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralTinyTinyBoldUppercase 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize0);
-  line-height: 17px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralAdditionalSubscript 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 14px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralAdditionalSuperscript 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 14px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralAdditionalBlockquoteBody 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 14px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralAdditionalBlockquoteHeader 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 14px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralAdditionalBulletText 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 18px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyGeneralAdditionalBulletTextSeconLevel 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize1);
-  line-height: 16px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopUber 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize18);
-  line-height: 20px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopHero 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize17);
-  line-height: 24px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH1Deprecated_ 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize16);
-  line-height: 26px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH1 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize15);
-  line-height: 28px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH2 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize13);
-  line-height: 30px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH3 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize9);
-  line-height: 32px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH3Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize9);
-  line-height: 32px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH4 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
-  line-height: 36px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH4Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
-  line-height: 36px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH5 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH5Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH6 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH6Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyDesktopH6BoldUnderlined 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletUber 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize17);
-  line-height: 24px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletHero 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize16);
-  line-height: 26px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH1Deprecated_ 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize15);
-  line-height: 28px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH1 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize13);
-  line-height: 30px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH2 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize11);
-  line-height: 32px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH3 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
-  line-height: 36px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH3Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
-  line-height: 36px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH4 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH4Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH5 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH5Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize5);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH6 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH6Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyTabletH6BoldUnderline 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileUber 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize16);
-  line-height: 46px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileHero 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize14);
-  line-height: 48px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH1Deprecated_ 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize12);
-  line-height: 60px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH1 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize10);
-  line-height: 80px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH2 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize8);
-  line-height: 14px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH3 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
-  line-height: 18px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH3Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize7);
-  line-height: 18px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH4 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH4Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize6);
-  line-height: 40px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH5 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: var(--measureFontSizeFontSizeFontsize4);
-  line-height: 12px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH5Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize4);
-  line-height: 12px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH6 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 10px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH6Bold 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 10px;
-  letter-spacing: 10px;
-  text-indent: 0px;
-  
-}    
-
-.typographyMobileH6BoldUnderline 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 800;
-  font-size: var(--measureFontSizeFontSizeFontsize3);
-  line-height: 10px;
-  letter-spacing: 12px;
-  text-indent: 0px;
-  
-}    
 
+--viu-typography-general-body: 400 1.4rem/10% 'Poppins';
+
+--viu-typography-general-body-bold: 700 1.4rem/10% 'Poppins';
+
+--viu-typography-general-body-bold-underlined: 700 1.4rem/12% 'Poppins';
+
+--viu-typography-general-body-uppercase: 400 1.4rem/10% 'Poppins';
+
+--viu-typography-general-body-bold-list: 400 1.4rem/10% 'Poppins';
+
+--viu-typography-general-body-long: 400 1.6rem/14% 'Poppins';
+
+--viu-typography-general-body-long-bold: 700 1.6rem/14% 'Poppins';
+
+--viu-typography-general-body-long-bold-underlined: 700 1.6rem/14% 'Poppins';
+
+--viu-typography-general-body-small-cta: 400 1.6rem/12% 'Poppins';
+
+--viu-typography-general-small: 400 1.2rem/16% 'Poppins';
+
+--viu-typography-general-small-bold: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-general-small-bold-underlined: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-general-small-bold-crossed: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-general-small-bold-uppercase: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-general-tiny: 500 1rem/17% 'Poppins';
+
+--viu-typography-general-tiny-bold: 700 1rem/17% 'Poppins';
+
+--viu-typography-general-tiny-bold-underlined: 700 1rem/17% 'Poppins';
+
+--viu-typography-general-tiny-bold-uppercase: 700 1rem/17% 'Poppins';
+
+--viu-typography-general-additional-subscript: 400 1.6rem/14% 'Poppins';
+
+--viu-typography-general-additional-superscript: 400 1.6rem/14% 'Poppins';
+
+--viu-typography-general-additional-blockquote-body: 400 1.6rem/14% 'Poppins';
+
+--viu-typography-general-additional-blockquote-header: 700 1.6rem/14% 'Poppins';
+
+--viu-typography-general-additional-bullet-text: 700 1.6rem/18% 'Poppins';
+
+--viu-typography-general-additional-bullet-text-secon-level: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-desktop-uber: 700 11.2rem/20% 'Poppins';
+
+--viu-typography-desktop-hero: 700 8rem/24% 'Poppins';
+
+--viu-typography-desktop-h1: 600 4.8rem/28% 'Poppins';
+
+--viu-typography-desktop-h2: 600 4rem/30% 'Poppins';
+
+--viu-typography-desktop-h3: 600 2.8rem/32% 'Poppins';
+
+--viu-typography-desktop-h3-bold: 800 2.8rem/32% 'Poppins';
+
+--viu-typography-desktop-h4: 600 2.4rem/36% 'Poppins';
+
+--viu-typography-desktop-h4-bold: 800 2.4rem/36% 'Poppins';
+
+--viu-typography-desktop-h5: 600 2rem/40% 'Poppins';
+
+--viu-typography-desktop-h5-bold: 800 2rem/40% 'Poppins';
+
+--viu-typography-desktop-h6: 400 1.8rem/40% 'Poppins';
+
+--viu-typography-desktop-h6-bold: 700 1.8rem/40% 'Poppins';
+
+--viu-typography-desktop-h6-bold-underlined: 700 1.8rem/40% 'Poppins';
+
+--viu-typography-tablet-uber: 700 8rem/24% 'Poppins';
+
+--viu-typography-tablet-hero: 700 6rem/26% 'Poppins';
+
+--viu-typography-tablet-h1: 600 4rem/30% 'Poppins';
+
+--viu-typography-tablet-h2: 600 3.2rem/32% 'Poppins';
+
+--viu-typography-tablet-h3: 600 2.4rem/36% 'Poppins';
+
+--viu-typography-tablet-h3-bold: 800 2.4rem/36% 'Poppins';
+
+--viu-typography-tablet-h4: 600 2rem/40% 'Poppins';
+
+--viu-typography-tablet-h4-bold: 800 2rem/40% 'Poppins';
+
+--viu-typography-tablet-h5: 600 1.8rem/40% 'Poppins';
+
+--viu-typography-tablet-h5-bold: 700 1.8rem/40% 'Poppins';
+
+--viu-typography-tablet-h6: 400 1.6rem/40% 'Poppins';
+
+--viu-typography-tablet-h6-bold: 700 1.6rem/40% 'Poppins';
+
+--viu-typography-tablet-h6-bold-underline: 700 1.6rem/40% 'Poppins';
+
+--viu-typography-mobile-uber: 700 6rem/46% 'Poppins';
+
+--viu-typography-mobile-hero: 700 4.6rem/48% 'Poppins';
+
+--viu-typography-mobile-h1: 600 3rem/80% 'Poppins';
+
+--viu-typography-mobile-h2: 600 2.6rem/14% 'Poppins';
+
+--viu-typography-mobile-h3: 600 2.4rem/18% 'Poppins';
+
+--viu-typography-mobile-h3-bold: 800 2.4rem/18% 'Poppins';
+
+--viu-typography-mobile-h4: 600 2rem/40% 'Poppins';
+
+--viu-typography-mobile-h4-bold: 800 2rem/40% 'Poppins';
+
+--viu-typography-mobile-h5: 600 1.7rem/12% 'Poppins';
+
+--viu-typography-mobile-h5-bold: 800 1.7rem/12% 'Poppins';
+
+--viu-typography-mobile-h6: 400 1.6rem/10% 'Poppins';
+
+--viu-typography-mobile-h6-bold: 700 1.6rem/10% 'Poppins';
+
+--viu-typography-mobile-h6-bold-underline: 800 1.6rem/10% 'Poppins';

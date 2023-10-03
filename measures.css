@@ -1,112 +1,218 @@
 
-:root {
-    --measureParagraphSpacingParagraphSpacingParagraphspacing0: 0px;    
-    --measureDimensionDimensionParagraphindent0: 0px;    
-    --measureFontSizeFontSizeFontsize0: 10px;    
-    --measureFontSizeFontSizeFontsize1: 12px;    
-    --measureFontSizeFontSizeFontsize2: 14px;    
-    --measureFontSizeFontSizeFontsize3: 16px;    
-    --measureFontSizeFontSizeFontsize4: 17px;    
-    --measureFontSizeFontSizeFontsize5: 18px;    
-    --measureFontSizeFontSizeFontsize6: 20px;    
-    --measureFontSizeFontSizeFontsize7: 24px;    
-    --measureFontSizeFontSizeFontsize8: 26px;    
-    --measureFontSizeFontSizeFontsize9: 28px;    
-    --measureFontSizeFontSizeFontsize10: 30px;    
-    --measureFontSizeFontSizeFontsize11: 32px;    
-    --measureFontSizeFontSizeFontsize12: 36px;    
-    --measureFontSizeFontSizeFontsize13: 40px;    
-    --measureFontSizeFontSizeFontsize14: 46px;    
-    --measureFontSizeFontSizeFontsize15: 48px;    
-    --measureFontSizeFontSizeFontsize16: 60px;    
-    --measureFontSizeFontSizeFontsize17: 80px;    
-    --measureFontSizeFontSizeFontsize18: 112px;    
-    --measureLineHeightLineHeightLineheight0: 20px;    
-    --measureLineHeightLineHeightLineheight1: 22px;    
-    --measureLineHeightLineHeightLineheight2: 28px;    
-    --measureLineHeightLineHeightLineheight3: 16px;    
-    --measureLineHeightLineHeightLineheight4: 14px;    
-    --measureLineHeightLineHeightLineheight5: 30px;    
-    --measureLineHeightLineHeightLineheight6: 120px;    
-    --measureLineHeightLineHeightLineheight7: 90px;    
-    --measureLineHeightLineHeightLineheight8: 80px;    
-    --measureLineHeightLineHeightLineheight9: 52px;    
-    --measureLineHeightLineHeightLineheight10: 46px;    
-    --measureLineHeightLineHeightLineheight11: 40px;    
-    --measureLineHeightLineHeightLineheight12: 32px;    
-    --measureLineHeightLineHeightLineheight13: 24px;    
-    --measureLineHeightLineHeightLineheight14: 70px;    
-    --measureLineHeightLineHeightLineheight15: 50px;    
-    --measureLineHeightLineHeightLineheight16: 44px;    
-    --measureLineHeightLineHeightLineheight17: 36px;    
-    --measureLetterSpacingLetterSpacingLetterspacing0: 0px;    
-    --measureLetterSpacingLetterSpacingLetterspacing1: 0%;    
-    --measureLineHeightLineHeightLineheightHeadingH1Mobile: 80px;    
-    --measureLineHeightLineHeightLineheightHeadingH1Tablet: 30px;    
-    --measureSizeSizingSize0: 4px;    
-    --measureSizeSizingSize1: 8px;    
-    --measureSizeSizingSize2: 16px;    
-    --measureSizeSizingSize3: 32px;    
-    --measureSizeSizingSize4: 24px;    
-    --measureSizeSizingSize5: 32px;    
-    --measureSizeSizingSize6: 40px;    
-    --measureSizeSizingSize7: 48px;    
-    --measureSizeSizingSize8: 56px;    
-    --measureSizeSizingSize9: 64px;    
-    --measureSizeSizingSize10: 72px;    
-    --measureSizeSizingSize11: 80px;    
-    --measureSizeSizingSize12: 88px;    
-    --measureSizeSizingSize13: 96px;    
-    --measureSizeSizingSize14: 104px;    
-    --measureSizeSizingSize15: 112px;    
-    --measureBorderRadiusBorderRadiusBorderradiusButton: 24px;    
-    --measureBorderRadiusBorderRadiusBorderradiusCardDesktop: 24px;    
-    --measureBorderRadiusBorderRadiusBorderradiusCardTablet: 16px;    
-    --measureBorderRadiusBorderRadiusBorderradiusCardMobile: 16px;    
-    --measureSpaceSpacingSpacingXxs: 4px;    
-    --measureSpaceSpacingSpacingXs: 8px;    
-    --measureSpaceSpacingSpacingS: 16px;    
-    --measureSpaceSpacingSpacingM: 20px;    
-    --measureSpaceSpacingSpacingL: 24px;    
-    --measureSpaceSpacingSpacingXl: 32px;    
-    --measureSpaceSpacingSpacingXxl: 40px;    
-    --measureSpaceSpacingSpacingXxxl: 48px;    
-    --measureLineHeightLineHeightLineheightHeadingH1Desktop: var(--measureLineHeightLineHeightLineheight9);    
-    --measureFontSizeFontSizeFontsizeHeadingH1Mobile: var(--measureFontSizeFontSizeFontsize10);    
-    --measureFontSizeFontSizeFontsizeHeadingH1Tablet: var(--measureFontSizeFontSizeFontsize13);    
-    --measureFontSizeFontSizeFontsizeHeadingH1Desktop: var(--measureFontSizeFontSizeFontsize15);    
-    --measureFontSizeFontSizeFontsizeHeadingH2Desktop: var(--measureFontSizeFontSizeFontsize13);    
-    --measureFontSizeFontSizeFontsizeHeadingH2Tablet: var(--measureFontSizeFontSizeFontsize11);    
-    --measureFontSizeFontSizeFontsizeHeadingH2Mobile: var(--measureFontSizeFontSizeFontsize8);    
-    --measureFontSizeFontSizeFontsizeBody: var(--measureFontSizeFontSizeFontsize2);    
-    --measureFontSizeFontSizeFontsizeBodylong: var(--measureFontSizeFontSizeFontsize3);    
-    --measureFontSizeFontSizeFontsizeSmall: var(--measureFontSizeFontSizeFontsize1);    
-    --measureFontSizeFontSizeFontsizeTiny: var(--measureFontSizeFontSizeFontsize0);    
-    --measureLineHeightLineHeightLineheightBody: var(--measureLineHeightLineHeightLineheight0);    
-    --measureSpaceSpacingSpacingButtonMargin: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingButtonPadding: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH1Desktop: var(--measureSpaceSpacingSpacingL);    
-    --measureSpaceSpacingSpacingHeadingH1Tablet: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH1Mobile: var(--measureSpaceSpacingSpacingXs);    
-    --measureSpaceSpacingSpacingHeadingH2Desktop: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH2Tablet: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH2Mobile: var(--measureSpaceSpacingSpacingXs);    
-    --measureSpaceSpacingSpacingHeadingH3Desktop: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH3Tablet: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH3Mobile: var(--measureSpaceSpacingSpacingXs);    
-    --measureSpaceSpacingSpacingHeadingH4Desktop: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH4Tablet: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH4Mobile: var(--measureSpaceSpacingSpacingXs);    
-    --measureSpaceSpacingSpacingHeadingH5Desktop: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH5Tablet: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH5Mobile: var(--measureSpaceSpacingSpacingXs);    
-    --measureSpaceSpacingSpacingHeadingH6Desktop: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH6Tablet: var(--measureSpaceSpacingSpacingS);    
-    --measureSpaceSpacingSpacingHeadingH6Mobile: var(--measureSpaceSpacingSpacingXs);    
-    --measureSpaceSpacingSpacingContentBodytext: var(--measureSpaceSpacingSpacingL);    
-    --measureSpaceSpacingSpacingContentSmalltext: var(--measureSpaceSpacingSpacingXs);    
-    --measureSpaceSpacingSpacingContentTinytext: var(--measureSpaceSpacingSpacingXxs);    
-    --measureSpaceSpacingSpacingSectionDesktop: var(--measureSpaceSpacingSpacingXxxl);    
-    --measureSpaceSpacingSpacingSectionTablet: var(--measureSpaceSpacingSpacingXl);    
-    --measureSpaceSpacingSpacingSectionMobile: var(--measureSpaceSpacingSpacingXl);    
-}
+--viu-measure-paragraphspacing-0: 0rem;
+
+--viu-measure-dimension-paragraphindent-0: 0rem;
+
+--viu-measure-borderradius-button: 2.4rem;
+
+--viu-measure-borderradius-card-desktop: 2.4rem;
+
+--viu-measure-borderradius-card-tablet: 1.6rem;
+
+--viu-measure-borderradius-card-mobile: 1.6rem;
+
+--viu-measure-lineheight-0: 2rem;
+
+--viu-measure-lineheight-1: 2.2rem;
+
+--viu-measure-lineheight-2: 2.8rem;
+
+--viu-measure-lineheight-3: 1.6rem;
+
+--viu-measure-lineheight-4: 1.4rem;
+
+--viu-measure-lineheight-5: 3rem;
+
+--viu-measure-lineheight-6: 12rem;
+
+--viu-measure-lineheight-7: 9rem;
+
+--viu-measure-lineheight-8: 8rem;
+
+--viu-measure-lineheight-9: 5.2rem;
+
+--viu-measure-lineheight-10: 4.6rem;
+
+--viu-measure-lineheight-11: 4rem;
+
+--viu-measure-lineheight-12: 3.2rem;
+
+--viu-measure-lineheight-13: 2.4rem;
+
+--viu-measure-lineheight-14: 7rem;
+
+--viu-measure-lineheight-15: 5rem;
+
+--viu-measure-lineheight-16: 4.4rem;
+
+--viu-measure-lineheight-17: 3.6rem;
+
+--viu-measure-lineheight-heading-h1-mobile: 8rem;
+
+--viu-measure-lineheight-heading-h1-tablet: 3rem;
+
+--viu-measure-letterspacing-0: 0rem;
+
+--viu-measure-letterspacing-1: 0rem;
+
+--viu-measure-sizing-0: 0.4rem;
+
+--viu-measure-sizing-1: 0.8rem;
+
+--viu-measure-sizing-2: 1.6rem;
+
+--viu-measure-sizing-3: 3.2rem;
+
+--viu-measure-sizing-4: 2.4rem;
+
+--viu-measure-sizing-5: 3.2rem;
+
+--viu-measure-sizing-6: 4rem;
+
+--viu-measure-sizing-7: 4.8rem;
+
+--viu-measure-sizing-8: 5.6rem;
+
+--viu-measure-sizing-9: 6.4rem;
+
+--viu-measure-sizing-10: 7.2rem;
+
+--viu-measure-sizing-11: 8rem;
+
+--viu-measure-sizing-12: 8.8rem;
+
+--viu-measure-sizing-13: 9.6rem;
+
+--viu-measure-sizing-14: 10.4rem;
+
+--viu-measure-sizing-15: 11.2rem;
+
+--viu-measure-spacing-xxs: 0.4rem;
+
+--viu-measure-spacing-xs: 0.8rem;
+
+--viu-measure-spacing-s: 1.6rem;
+
+--viu-measure-spacing-m: 2rem;
+
+--viu-measure-spacing-l: 2.4rem;
+
+--viu-measure-spacing-xl: 3.2rem;
+
+--viu-measure-spacing-xxl: 4rem;
+
+--viu-measure-spacing-xxxl: 4.8rem;
+
+--viu-measure-fontsize-0: 1rem;
+
+--viu-measure-fontsize-1: 1.2rem;
+
+--viu-measure-fontsize-2: 1.4rem;
+
+--viu-measure-fontsize-3: 1.6rem;
+
+--viu-measure-fontsize-4: 1.7rem;
+
+--viu-measure-fontsize-5: 1.8rem;
+
+--viu-measure-fontsize-6: 2rem;
+
+--viu-measure-fontsize-7: 2.4rem;
+
+--viu-measure-fontsize-8: 2.6rem;
+
+--viu-measure-fontsize-9: 2.8rem;
+
+--viu-measure-fontsize-10: 3rem;
+
+--viu-measure-fontsize-11: 3.2rem;
+
+--viu-measure-fontsize-12: 3.6rem;
+
+--viu-measure-fontsize-13: 4rem;
+
+--viu-measure-fontsize-14: 4.6rem;
+
+--viu-measure-fontsize-15: 4.8rem;
+
+--viu-measure-fontsize-16: 6rem;
+
+--viu-measure-fontsize-17: 8rem;
+
+--viu-measure-fontsize-18: 11.2rem;
+
+--viu-measure-lineheight-heading-h1-desktop: var(--viu-measure-lineheight-9);
+
+--viu-measure-lineheight-body: var(--viu-measure-lineheight-0);
+
+--viu-measure-spacing-button-margin: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-button-padding: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h1-desktop: var(--viu-measure-spacing-l);
+
+--viu-measure-spacing-heading-h1-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h1-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h2-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h2-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h2-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h3-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h3-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h3-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h4-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h4-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h4-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h5-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h5-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h5-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h6-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h6-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h6-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-content-bodytext: var(--viu-measure-spacing-l);
+
+--viu-measure-spacing-content-smalltext: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-content-tinytext: var(--viu-measure-spacing-xxs);
+
+--viu-measure-spacing-section-desktop: var(--viu-measure-spacing-xxxl);
+
+--viu-measure-spacing-section-tablet: var(--viu-measure-spacing-xl);
+
+--viu-measure-spacing-section-mobile: var(--viu-measure-spacing-xl);
+
+--viu-measure-fontsize-heading-h1-mobile: var(--viu-measure-fontsize-10);
+
+--viu-measure-fontsize-heading-h1-tablet: var(--viu-measure-fontsize-13);
+
+--viu-measure-fontsize-heading-h1-desktop: var(--viu-measure-fontsize-15);
+
+--viu-measure-fontsize-heading-h2-desktop: var(--viu-measure-fontsize-13);
+
+--viu-measure-fontsize-heading-h2-tablet: var(--viu-measure-fontsize-11);
+
+--viu-measure-fontsize-heading-h2-mobile: var(--viu-measure-fontsize-8);
+
+--viu-measure-fontsize-body: var(--viu-measure-fontsize-2);
+
+--viu-measure-fontsize-bodylong: var(--viu-measure-fontsize-3);
+
+--viu-measure-fontsize-small: var(--viu-measure-fontsize-1);
+
+--viu-measure-fontsize-tiny: var(--viu-measure-fontsize-0);

@@ -1,7 +1,8 @@
 
-:root {
-    --borderActionButtonPrimaryDefault: 1px solid var(--colorPrimarySky600);    
-    --borderActionButtonPrimaryHover: 1px solid var(--colorPrimarySky700);    
-    --borderActionButtonPrimaryFocus: 1px solid var(--colorPrimarySky800);    
-    --borderActionButtonPrimaryDisabled: 1px solid var(--colorNeutral400);    
-}
+--viu-border-action-button-primary-default: 0.1rem solid var(--viu-color-primary-sky-600);
+
+--viu-border-action-button-primary-hover: 0.1rem solid var(--viu-color-primary-sky-700);
+
+--viu-border-action-button-primary-focus: 0.1rem solid var(--viu-color-primary-sky-800);
+
+--viu-border-action-button-primary-disabled: 0.1rem solid var(--viu-color-neutral-400);
