@@ -4,7 +4,7 @@
 @import url(../measures.css);
 @import url(../borders.css);
 @import url(../gradients.css);
-@import url(../shadows.css);
+@import url(../elevation.css);
 @import url(../typography.css);
 
 
@@ -28,42 +28,35 @@
 }
   
 body{
-font-family: var(--bs-font-sans-serif);
-font-size: 1rem;
+font: var(--viu-typography-general-body);
 color: #212529;
 }
 
-/* Section */
-.row {
-  padding-top: var(--measureSpaceSpacingSpacingSectionDesktop); 
-}
-
-
 /* Primary BTN */
 .btn-primary {
-  color: var(--colorActionTextOnprimaryDefault); 
-  background-color: var(--colorActionBackgroundPrimaryDefault); 
-  border: var(--borderActionButtonPrimaryDefault);
-  border-radius: var(--measureBorderRadiusBorderRadiusBorderradiusButton);
-  margin-right: var(--measureSpaceSpacingSpacingButtonMargin);
+  color: var(--viu-color-action-text-onprimary-default); 
+  background-color: var(--viu-color-action-background-primary-default); 
+  border: var(--viu-border-action-button-primary-default);
+  border-radius: var(--viu-measure-borderradius-button);
+  margin-right: var(--viu-measure-spacing-button-margin);
 }
 .btn-primary:hover {
-  color: var(--colorActionTextOnprimaryDefault); 
-  background-color: var(--colorActionBackgroundPrimaryHover); 
-  border-color: var(--colorActionBorderPrimaryHover);
+  color: var(--viu-color-action-text-onprimary-hover); 
+  background-color: var(--viu-color-action-background-primary-hover); 
+  border: var(--viu-border-action-button-primary-hover);
 }
 
 /* Secondary BTN */
 .btn-secondary {
-    color: var(--colorActionTextOnsecondaryDefault); 
-    background-color: var(--colorActionBackgroundSecondaryDefault); 
-    border-color: var(--colorActionBorderSecondaryDefault);
-    border-radius: var(--measureBorderRadiusBorderRadiusBorderradiusButton);
+    color: var(--viu-color-action-text-onsecondary-default); 
+    background-color: var(--viu-color-action-background-secondary-default); 
+    border: var(--viu-border-action-button-secondary-default);
+    border-radius: var(--viu-measure-borderradius-button);
     }
 .btn-secondary:hover {
-    color: var(--colorActionTextOnsecondayHover); 
-    background-color: var(--colorActionBackgroundSecondaryHover); 
-    border-color: var(--colorActionBorderSecondaryHover);
+    color: var(--viu-color-action-text-onsecondary-hover); 
+    background-color: var(--viu-color-action-background-secondary-hover); 
+    border-color: var(--viu-border-action-button-secondary-hover);
     }
   
 
@@ -81,44 +74,44 @@ a:hover {
 
 @media (min-width:960px){
   .row {
-    padding-top: var(--measureSpaceSpacingSpacingSectionMobile); 
+    padding-top: var(--viu-measure-spacing-section-mobile); 
     }  
   h1 {
-    font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Mobile);
-    line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Mobile);
-    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSpaceSpacingSpacingHeadingH1Mobile);
+    font-size: var(--viu-measure-fontsize-heading-h1-mobile);
+    line-height: var(--viu-measure-lineheight-heading-h1-mbile);
+    letter-spacing: var(--viu-measure-letterspacing-0);
+    margin-bottom: var(--viu-measure-spacing-heading-h1-mobile);
     }
   h2 {
     font-size: var(--measureFontSizeFontSizeFontsizeHeadingH2Mobile);
     line-height: var(--measureLineHeightLineHeightLineheightHeadingH2Mobile);
-    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSpaceSpacingSpacingHeadingH2Mobile);
+    letter-spacing: var(--viu-measure-letterspacing-0);
+    margin-bottom: var(--viu-measure-spacing-heading-h2-mobile);
     }
 
 }
 
 @media (min-width:1200px){
   .row {
-    padding-top: var(--measureSpaceSpacingSpacingSectionDesktop); 
+    padding-top: var(--viu-measure-spacing-section-desktop); 
     }
   h1 {
     font-weight: 500;
-    font-size: var(--measureFontSizeFontSizeFontsizeHeadingH1Desktop);
-    line-height: var(--measureLineHeightLineHeightLineheightHeadingH1Desktop);
-    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSpaceSpacingSpacingHeadingH1Desktop);
+    font-size: var(--viu-measure-fontsize-heading-h1-desktop);
+    line-height: var(--viu-measure-lineheight-heading-h1-desktop);
+    letter-spacing: var(--viu-measure-letterspacing-0);
+    margin-bottom: var(--viu-measure-spacing-heading-h1-desktop);
     }
   h2 {
     font-size: var(--measureFontSizeFontSizeFontsizeHeadingH2Desktop);
     line-height: var(--measureLineHeightLineHeightLineheightHeadingH2Desktop);
-    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSpaceSpacingSpacingHeadingH2Desktop);
+    letter-spacing: var(--viu-measure-letterspacing-0);
+    margin-bottom: var(--viu-measure-spacing-heading-h2-desktop);
     }
   p{
-    font-size: var(--measureFontSizeFontSizeFontsizeBody);
-    line-height: var(--measureLineHeightLineHeightLineheightBody);
-    letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
-    margin-bottom: var(--measureSpaceSpacingSpacingContentBodytext);   
+    font-size: var(--viu-measure-fontsize-body);
+    line-height: var(--viu-measure-lineheight-body);
+    letter-spacing: var(--viu-measure-letterspacing-0);
+    margin-bottom: var(--viu-measure-spacing-content-bodytext);   
   }
 }
