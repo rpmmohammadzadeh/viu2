@@ -1,0 +1,8 @@
+
+--viu-border-action-button-primary-default: 0.1rem solid var(--viu-color-primary-sky-600);
+
+--viu-border-action-button-primary-hover: 0.1rem solid var(--viu-color-primary-sky-700);
+
+--viu-border-action-button-primary-focus: 0.1rem solid var(--viu-color-primary-sky-800);
+
+--viu-border-action-button-primary-disabled: 0.1rem solid var(--viu-color-neutral-400);

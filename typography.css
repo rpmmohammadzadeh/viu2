@@ -1,0 +1,126 @@
+
+--viu-typography-general-body: 400 1.4rem/10% 'Poppins';
+
+--viu-typography-general-body-bold: 700 1.4rem/10% 'Poppins';
+
+--viu-typography-general-body-bold-underlined: 700 1.4rem/12% 'Poppins';
+
+--viu-typography-general-body-uppercase: 400 1.4rem/10% 'Poppins';
+
+--viu-typography-general-body-bold-list: 400 1.4rem/10% 'Poppins';
+
+--viu-typography-general-body-long: 400 1.6rem/14% 'Poppins';
+
+--viu-typography-general-body-long-bold: 700 1.6rem/14% 'Poppins';
+
+--viu-typography-general-body-long-bold-underlined: 700 1.6rem/14% 'Poppins';
+
+--viu-typography-general-body-small-cta: 400 1.6rem/12% 'Poppins';
+
+--viu-typography-general-small: 400 1.2rem/16% 'Poppins';
+
+--viu-typography-general-small-bold: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-general-small-bold-underlined: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-general-small-bold-crossed: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-general-small-bold-uppercase: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-general-tiny: 500 1rem/17% 'Poppins';
+
+--viu-typography-general-tiny-bold: 700 1rem/17% 'Poppins';
+
+--viu-typography-general-tiny-bold-underlined: 700 1rem/17% 'Poppins';
+
+--viu-typography-general-tiny-bold-uppercase: 700 1rem/17% 'Poppins';
+
+--viu-typography-general-additional-subscript: 400 1.6rem/14% 'Poppins';
+
+--viu-typography-general-additional-superscript: 400 1.6rem/14% 'Poppins';
+
+--viu-typography-general-additional-blockquote-body: 400 1.6rem/14% 'Poppins';
+
+--viu-typography-general-additional-blockquote-header: 700 1.6rem/14% 'Poppins';
+
+--viu-typography-general-additional-bullet-text: 700 1.6rem/18% 'Poppins';
+
+--viu-typography-general-additional-bullet-text-secon-level: 700 1.2rem/16% 'Poppins';
+
+--viu-typography-desktop-uber: 700 11.2rem/20% 'Poppins';
+
+--viu-typography-desktop-hero: 700 8rem/24% 'Poppins';
+
+--viu-typography-desktop-h1: 600 4.8rem/28% 'Poppins';
+
+--viu-typography-desktop-h2: 600 4rem/30% 'Poppins';
+
+--viu-typography-desktop-h3: 600 2.8rem/32% 'Poppins';
+
+--viu-typography-desktop-h3-bold: 800 2.8rem/32% 'Poppins';
+
+--viu-typography-desktop-h4: 600 2.4rem/36% 'Poppins';
+
+--viu-typography-desktop-h4-bold: 800 2.4rem/36% 'Poppins';
+
+--viu-typography-desktop-h5: 600 2rem/40% 'Poppins';
+
+--viu-typography-desktop-h5-bold: 800 2rem/40% 'Poppins';
+
+--viu-typography-desktop-h6: 400 1.8rem/40% 'Poppins';
+
+--viu-typography-desktop-h6-bold: 700 1.8rem/40% 'Poppins';
+
+--viu-typography-desktop-h6-bold-underlined: 700 1.8rem/40% 'Poppins';
+
+--viu-typography-tablet-uber: 700 8rem/24% 'Poppins';
+
+--viu-typography-tablet-hero: 700 6rem/26% 'Poppins';
+
+--viu-typography-tablet-h1: 600 4rem/30% 'Poppins';
+
+--viu-typography-tablet-h2: 600 3.2rem/32% 'Poppins';
+
+--viu-typography-tablet-h3: 600 2.4rem/36% 'Poppins';
+
+--viu-typography-tablet-h3-bold: 800 2.4rem/36% 'Poppins';
+
+--viu-typography-tablet-h4: 600 2rem/40% 'Poppins';
+
+--viu-typography-tablet-h4-bold: 800 2rem/40% 'Poppins';
+
+--viu-typography-tablet-h5: 600 1.8rem/40% 'Poppins';
+
+--viu-typography-tablet-h5-bold: 700 1.8rem/40% 'Poppins';
+
+--viu-typography-tablet-h6: 400 1.6rem/40% 'Poppins';
+
+--viu-typography-tablet-h6-bold: 700 1.6rem/40% 'Poppins';
+
+--viu-typography-tablet-h6-bold-underline: 700 1.6rem/40% 'Poppins';
+
+--viu-typography-mobile-uber: 700 6rem/46% 'Poppins';
+
+--viu-typography-mobile-hero: 700 4.6rem/48% 'Poppins';
+
+--viu-typography-mobile-h1: 600 3rem/80% 'Poppins';
+
+--viu-typography-mobile-h2: 600 2.6rem/14% 'Poppins';
+
+--viu-typography-mobile-h3: 600 2.4rem/18% 'Poppins';
+
+--viu-typography-mobile-h3-bold: 800 2.4rem/18% 'Poppins';
+
+--viu-typography-mobile-h4: 600 2rem/40% 'Poppins';
+
+--viu-typography-mobile-h4-bold: 800 2rem/40% 'Poppins';
+
+--viu-typography-mobile-h5: 600 1.7rem/12% 'Poppins';
+
+--viu-typography-mobile-h5-bold: 800 1.7rem/12% 'Poppins';
+
+--viu-typography-mobile-h6: 400 1.6rem/10% 'Poppins';
+
+--viu-typography-mobile-h6-bold: 700 1.6rem/10% 'Poppins';
+
+--viu-typography-mobile-h6-bold-underline: 800 1.6rem/10% 'Poppins';

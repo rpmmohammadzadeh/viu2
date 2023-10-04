@@ -1,0 +1,218 @@
+
+--viu-measure-paragraphspacing-0: 0rem;
+
+--viu-measure-dimension-paragraphindent-0: 0rem;
+
+--viu-measure-borderradius-button: 2.4rem;
+
+--viu-measure-borderradius-card-desktop: 2.4rem;
+
+--viu-measure-borderradius-card-tablet: 1.6rem;
+
+--viu-measure-borderradius-card-mobile: 1.6rem;
+
+--viu-measure-lineheight-0: 2rem;
+
+--viu-measure-lineheight-1: 2.2rem;
+
+--viu-measure-lineheight-2: 2.8rem;
+
+--viu-measure-lineheight-3: 1.6rem;
+
+--viu-measure-lineheight-4: 1.4rem;
+
+--viu-measure-lineheight-5: 3rem;
+
+--viu-measure-lineheight-6: 12rem;
+
+--viu-measure-lineheight-7: 9rem;
+
+--viu-measure-lineheight-8: 8rem;
+
+--viu-measure-lineheight-9: 5.2rem;
+
+--viu-measure-lineheight-10: 4.6rem;
+
+--viu-measure-lineheight-11: 4rem;
+
+--viu-measure-lineheight-12: 3.2rem;
+
+--viu-measure-lineheight-13: 2.4rem;
+
+--viu-measure-lineheight-14: 7rem;
+
+--viu-measure-lineheight-15: 5rem;
+
+--viu-measure-lineheight-16: 4.4rem;
+
+--viu-measure-lineheight-17: 3.6rem;
+
+--viu-measure-lineheight-heading-h1-mobile: 8rem;
+
+--viu-measure-lineheight-heading-h1-tablet: 3rem;
+
+--viu-measure-letterspacing-0: 0rem;
+
+--viu-measure-letterspacing-1: 0rem;
+
+--viu-measure-sizing-0: 0.4rem;
+
+--viu-measure-sizing-1: 0.8rem;
+
+--viu-measure-sizing-2: 1.6rem;
+
+--viu-measure-sizing-3: 3.2rem;
+
+--viu-measure-sizing-4: 2.4rem;
+
+--viu-measure-sizing-5: 3.2rem;
+
+--viu-measure-sizing-6: 4rem;
+
+--viu-measure-sizing-7: 4.8rem;
+
+--viu-measure-sizing-8: 5.6rem;
+
+--viu-measure-sizing-9: 6.4rem;
+
+--viu-measure-sizing-10: 7.2rem;
+
+--viu-measure-sizing-11: 8rem;
+
+--viu-measure-sizing-12: 8.8rem;
+
+--viu-measure-sizing-13: 9.6rem;
+
+--viu-measure-sizing-14: 10.4rem;
+
+--viu-measure-sizing-15: 11.2rem;
+
+--viu-measure-spacing-xxs: 0.4rem;
+
+--viu-measure-spacing-xs: 0.8rem;
+
+--viu-measure-spacing-s: 1.6rem;
+
+--viu-measure-spacing-m: 2rem;
+
+--viu-measure-spacing-l: 2.4rem;
+
+--viu-measure-spacing-xl: 3.2rem;
+
+--viu-measure-spacing-xxl: 4rem;
+
+--viu-measure-spacing-xxxl: 4.8rem;
+
+--viu-measure-fontsize-0: 1rem;
+
+--viu-measure-fontsize-1: 1.2rem;
+
+--viu-measure-fontsize-2: 1.4rem;
+
+--viu-measure-fontsize-3: 1.6rem;
+
+--viu-measure-fontsize-4: 1.7rem;
+
+--viu-measure-fontsize-5: 1.8rem;
+
+--viu-measure-fontsize-6: 2rem;
+
+--viu-measure-fontsize-7: 2.4rem;
+
+--viu-measure-fontsize-8: 2.6rem;
+
+--viu-measure-fontsize-9: 2.8rem;
+
+--viu-measure-fontsize-10: 3rem;
+
+--viu-measure-fontsize-11: 3.2rem;
+
+--viu-measure-fontsize-12: 3.6rem;
+
+--viu-measure-fontsize-13: 4rem;
+
+--viu-measure-fontsize-14: 4.6rem;
+
+--viu-measure-fontsize-15: 4.8rem;
+
+--viu-measure-fontsize-16: 6rem;
+
+--viu-measure-fontsize-17: 8rem;
+
+--viu-measure-fontsize-18: 11.2rem;
+
+--viu-measure-lineheight-heading-h1-desktop: var(--viu-measure-lineheight-9);
+
+--viu-measure-lineheight-body: var(--viu-measure-lineheight-0);
+
+--viu-measure-spacing-button-margin: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-button-padding: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h1-desktop: var(--viu-measure-spacing-l);
+
+--viu-measure-spacing-heading-h1-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h1-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h2-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h2-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h2-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h3-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h3-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h3-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h4-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h4-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h4-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h5-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h5-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h5-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-heading-h6-desktop: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h6-tablet: var(--viu-measure-spacing-s);
+
+--viu-measure-spacing-heading-h6-mobile: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-content-bodytext: var(--viu-measure-spacing-l);
+
+--viu-measure-spacing-content-smalltext: var(--viu-measure-spacing-xs);
+
+--viu-measure-spacing-content-tinytext: var(--viu-measure-spacing-xxs);
+
+--viu-measure-spacing-section-desktop: var(--viu-measure-spacing-xxxl);
+
+--viu-measure-spacing-section-tablet: var(--viu-measure-spacing-xl);
+
+--viu-measure-spacing-section-mobile: var(--viu-measure-spacing-xl);
+
+--viu-measure-fontsize-heading-h1-mobile: var(--viu-measure-fontsize-10);
+
+--viu-measure-fontsize-heading-h1-tablet: var(--viu-measure-fontsize-13);
+
+--viu-measure-fontsize-heading-h1-desktop: var(--viu-measure-fontsize-15);
+
+--viu-measure-fontsize-heading-h2-desktop: var(--viu-measure-fontsize-13);
+
+--viu-measure-fontsize-heading-h2-tablet: var(--viu-measure-fontsize-11);
+
+--viu-measure-fontsize-heading-h2-mobile: var(--viu-measure-fontsize-8);
+
+--viu-measure-fontsize-body: var(--viu-measure-fontsize-2);
+
+--viu-measure-fontsize-bodylong: var(--viu-measure-fontsize-3);
+
+--viu-measure-fontsize-small: var(--viu-measure-fontsize-1);
+
+--viu-measure-fontsize-tiny: var(--viu-measure-fontsize-0);
