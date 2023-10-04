@@ -302,4 +302,16 @@
 --viu-measure-lineheight-links-small: var(--viu-measure-lineheight-content-small);
 
 --viu-measure-lineheight-links-tiny: var(--viu-measure-lineheight-content-tiny);
+
+--viu-measure-spacing-card-verticalpadding-mobile: var(--viu-measure-spacing-l);
+
+--viu-measure-spacing-card-verticalpadding-tablet: var(--viu-measure-spacing-xl);
+
+--viu-measure-spacing-card-verticalpadding-desktop: var(--viu-measure-spacing-xxl);
+
+--viu-measure-spacing-card-horizontalpadding-mobile: var(--viu-measure-spacing-l);
+
+--viu-measure-spacing-card-horizontalpadding-tablet: var(--viu-measure-spacing-xl);
+
+--viu-measure-spacing-card-horizontalpadding-desktop: var(--viu-measure-spacing-xxl);
 }
