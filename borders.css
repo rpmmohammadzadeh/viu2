@@ -1,11 +1,19 @@
 
 :root {
 
---viu-border-action-button-primary-default: 0.1rem solid var(--viu-color-primary-sky-600);
+--viu-border-button-primary-focus: 0.1rem solid var(--viu-color-primary-sky-800);
 
---viu-border-action-button-primary-hover: 0.1rem solid var(--viu-color-primary-sky-700);
+--viu-border-button-primary-hover: 0.1rem solid var(--viu-color-primary-sky-700);
 
---viu-border-action-button-primary-focus: 0.1rem solid var(--viu-color-primary-sky-800);
+--viu-border-button-primary-default: 0.1rem solid var(--viu-color-primary-sky-600);
 
---viu-border-action-button-primary-disabled: 0.1rem solid var(--viu-color-neutral-400);
+--viu-border-button-primary-disabled: 0.1rem solid var(--viu-color-neutral-400);
+
+--viu-border-button-secondary-focus: 0.1rem solid var(--viu-color-primary-sky-800);
+
+--viu-border-button-secondary-hover: 0.1rem solid var(--viu-color-primary-sky-700);
+
+--viu-border-button-secondary-default: 0.1rem solid var(--viu-color-primary-sky-600);
+
+--viu-border-button-secondary-disabled: 0.1rem solid var(--viu-color-neutral-400);
 }
