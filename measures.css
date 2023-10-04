@@ -1,4 +1,6 @@
 
+:root {
+
 --viu-measure-paragraphspacing-0: 0rem;
 
 --viu-measure-dimension-paragraphindent-0: 0rem;
@@ -216,3 +218,4 @@
 --viu-measure-fontsize-small: var(--viu-measure-fontsize-1);
 
 --viu-measure-fontsize-tiny: var(--viu-measure-fontsize-0);
+}

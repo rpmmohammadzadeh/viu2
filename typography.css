@@ -1,4 +1,6 @@
 
+:root {
+
 --viu-typography-general-body: 400 1.4rem/10% 'Poppins';
 
 --viu-typography-general-body-bold: 700 1.4rem/10% 'Poppins';
@@ -124,3 +126,4 @@
 --viu-typography-mobile-h6-bold: 700 1.6rem/10% 'Poppins';
 
 --viu-typography-mobile-h6-bold-underline: 800 1.6rem/10% 'Poppins';
+}
