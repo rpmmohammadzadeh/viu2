@@ -314,4 +314,28 @@
 --viu-measure-spacing-card-horizontalpadding-tablet: var(--viu-measure-spacing-xl);
 
 --viu-measure-spacing-card-horizontalpadding-desktop: var(--viu-measure-spacing-xxl);
+
+--viu-measure-sizing-icon-ui-xs: var(--viu-measure-sizing-2);
+
+--viu-measure-sizing-icon-ui-s: var(--viu-measure-sizing-4);
+
+--viu-measure-sizing-icon-ui-m: var(--viu-measure-sizing-3);
+
+--viu-measure-sizing-icon-ui-l: var(--viu-measure-sizing-6);
+
+--viu-measure-sizing-icon-product-xs: var(--viu-measure-sizing-2);
+
+--viu-measure-sizing-icon-product-s: var(--viu-measure-sizing-4);
+
+--viu-measure-sizing-icon-product-m: var(--viu-measure-sizing-3);
+
+--viu-measure-sizing-icon-product-l: var(--viu-measure-sizing-6);
+
+--viu-measure-sizing-icon-illustration-xs: var(--viu-measure-sizing-2);
+
+--viu-measure-sizing-icon-illustration-s: var(--viu-measure-sizing-4);
+
+--viu-measure-sizing-icon-illustration-m: var(--viu-measure-sizing-3);
+
+--viu-measure-sizing-icon-illustration-l: var(--viu-measure-sizing-6);
 }
