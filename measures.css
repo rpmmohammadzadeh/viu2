@@ -49,10 +49,6 @@
 
 --viu-measure-lineheight-17: 3.6rem;
 
---viu-measure-lineheight-heading-h1-mobile: 8rem;
-
---viu-measure-lineheight-heading-h1-tablet: 3rem;
-
 --viu-measure-letterspacing-0: 0rem;
 
 --viu-measure-letterspacing-1: 0rem;
@@ -143,6 +139,10 @@
 
 --viu-measure-fontsize-18: 11.2rem;
 
+--viu-measure-lineheight-heading-h1-mobile: var(--viu-measure-lineheight-17);
+
+--viu-measure-lineheight-heading-h1-tablet: var(--viu-measure-lineheight-10);
+
 --viu-measure-lineheight-heading-h1-desktop: var(--viu-measure-lineheight-9);
 
 --viu-measure-lineheight-body: var(--viu-measure-lineheight-0);
@@ -213,9 +213,77 @@
 
 --viu-measure-fontsize-body: var(--viu-measure-fontsize-2);
 
---viu-measure-fontsize-bodylong: var(--viu-measure-fontsize-3);
-
 --viu-measure-fontsize-small: var(--viu-measure-fontsize-1);
 
 --viu-measure-fontsize-tiny: var(--viu-measure-fontsize-0);
+
+--viu-measure-fontsize-heading-h3-mobile: var(--viu-measure-fontsize-7);
+
+--viu-measure-fontsize-heading-h3-tablet: var(--viu-measure-fontsize-7);
+
+--viu-measure-fontsize-heading-h3-desktop: var(--viu-measure-fontsize-9);
+
+--viu-measure-fontsize-heading-h4-mobile: var(--viu-measure-fontsize-6);
+
+--viu-measure-fontsize-heading-h4-tablet: var(--viu-measure-fontsize-6);
+
+--viu-measure-fontsize-heading-h4-desktop: var(--viu-measure-fontsize-7);
+
+--viu-measure-fontsize-heading-h5-mobile: var(--viu-measure-fontsize-4);
+
+--viu-measure-fontsize-heading-h5-tablet: var(--viu-measure-fontsize-5);
+
+--viu-measure-fontsize-heading-h5-desktop: var(--viu-measure-fontsize-6);
+
+--viu-measure-fontsize-heading-h6-mobile: var(--viu-measure-fontsize-3);
+
+--viu-measure-fontsize-heading-h6-tablet: var(--viu-measure-fontsize-11);
+
+--viu-measure-fontsize-heading-h6-desktop: var(--viu-measure-fontsize-7);
+
+--viu-measure-fontsize-content-body: var(--viu-measure-fontsize-2);
+
+--viu-measure-fontsize-content-bodylong: var(--viu-measure-fontsize-3);
+
+--viu-measure-fontsize-content-small: var(--viu-measure-fontsize-1);
+
+--viu-measure-fontsize-content-tiny: var(--viu-measure-fontsize-0);
+
+--viu-measure-lineheight-heading-h2-mobile: var(--viu-measure-lineheight-2);
+
+--viu-measure-lineheight-heading-h2-tablet: var(--viu-measure-lineheight-11);
+
+--viu-measure-lineheight-heading-h2-desktop: var(--viu-measure-lineheight-10);
+
+--viu-measure-lineheight-heading-h3-mobile: var(--viu-measure-lineheight-5);
+
+--viu-measure-lineheight-heading-h3-tablet: var(--viu-measure-lineheight-11);
+
+--viu-measure-lineheight-heading-h3-desktop: var(--viu-measure-lineheight-11);
+
+--viu-measure-lineheight-heading-h4-mobile: var(--viu-measure-lineheight-13);
+
+--viu-measure-lineheight-heading-h4-tablet: var(--viu-measure-lineheight-12);
+
+--viu-measure-lineheight-heading-h4-desktop: var(--viu-measure-lineheight-12);
+
+--viu-measure-lineheight-heading-h5-mobile: var(--viu-measure-lineheight-1);
+
+--viu-measure-lineheight-heading-h5-tablet: var(--viu-measure-lineheight-13);
+
+--viu-measure-lineheight-heading-h5-desktop: var(--viu-measure-lineheight-13);
+
+--viu-measure-lineheight-heading-h6-mobile: var(--viu-measure-lineheight-0);
+
+--viu-measure-lineheight-heading-h6-tablet: var(--viu-measure-lineheight-13);
+
+--viu-measure-lineheight-heading-h6-desktop: var(--viu-measure-lineheight-13);
+
+--viu-measure-lineheight-content-body: var(--viu-measure-lineheight-0);
+
+--viu-measure-lineheight-content-bodylong: var(--viu-measure-lineheight-2);
+
+--viu-measure-lineheight-content-small: var(--viu-measure-lineheight-3);
+
+--viu-measure-lineheight-content-tiny: var(--viu-measure-lineheight-4);
 }
