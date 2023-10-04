@@ -50,13 +50,13 @@ color: #212529;
 .btn-secondary {
     color: var(--viu-color-action-text-onsecondary-default); 
     background-color: var(--viu-color-action-background-secondary-default); 
-    border: var(--viu-border-action-button-secondary-default);
+    border: var(--viu-border-button-secondary-default);
     border-radius: var(--viu-measure-borderradius-button);
     }
 .btn-secondary:hover {
     color: var(--viu-color-action-text-onsecondary-hover); 
     background-color: var(--viu-color-action-background-secondary-hover); 
-    border-color: var(--viu-border-action-button-secondary-hover);
+    border: var(--viu-border-button-secondary-hover);
     }
   
 
@@ -83,8 +83,8 @@ a:hover {
     margin-bottom: var(--viu-measure-spacing-heading-h1-mobile);
     }
   h2 {
-    font-size: var(--measureFontSizeFontSizeFontsizeHeadingH2Mobile);
-    line-height: var(--measureLineHeightLineHeightLineheightHeadingH2Mobile);
+    font-size: var(--viu-measure-fontsize-heading-h2-mobile);
+    line-height: var(--viu-measure-lineheight-heading-h2-mobile);
     letter-spacing: var(--viu-measure-letterspacing-0);
     margin-bottom: var(--viu-measure-spacing-heading-h2-mobile);
     }
@@ -103,8 +103,8 @@ a:hover {
     margin-bottom: var(--viu-measure-spacing-heading-h1-desktop);
     }
   h2 {
-    font-size: var(--measureFontSizeFontSizeFontsizeHeadingH2Desktop);
-    line-height: var(--measureLineHeightLineHeightLineheightHeadingH2Desktop);
+    font-size: var(--viu-measure-fontsize-heading-h2-desktop);
+    line-height: var(--viu-measure-lineheight-heading-h2-desktop);
     letter-spacing: var(--viu-measure-letterspacing-0);
     margin-bottom: var(--viu-measure-spacing-heading-h2-desktop);
     }
