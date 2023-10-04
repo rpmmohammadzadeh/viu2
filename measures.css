@@ -286,4 +286,20 @@
 --viu-measure-lineheight-content-small: var(--viu-measure-lineheight-3);
 
 --viu-measure-lineheight-content-tiny: var(--viu-measure-lineheight-4);
+
+--viu-measure-fontsize-links-large: var(--viu-measure-fontsize-content-bodylong);
+
+--viu-measure-fontsize-links-regular: var(--viu-measure-fontsize-body);
+
+--viu-measure-fontsize-links-small: var(--viu-measure-fontsize-content-small);
+
+--viu-measure-fontsize-links-tiny: var(--viu-measure-fontsize-content-tiny);
+
+--viu-measure-lineheight-links-large: var(--viu-measure-lineheight-content-bodylong);
+
+--viu-measure-lineheight-links-regular: var(--viu-measure-lineheight-content-body);
+
+--viu-measure-lineheight-links-small: var(--viu-measure-lineheight-content-small);
+
+--viu-measure-lineheight-links-tiny: var(--viu-measure-lineheight-content-tiny);
 }
