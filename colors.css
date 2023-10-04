@@ -111,22 +111,6 @@
 
 --viu-color-action-background-secondary-disable: var(--viu-color-neutral-100);
 
---viu-color-action-text-onprimary-default: var(--viu-color-neutral-100);
-
---viu-color-action-text-onprimary-hover: var(--viu-color-neutral-100);
-
---viu-color-action-text-onprimary-focus: var(--viu-color-neutral-100);
-
---viu-color-action-text-onprimary-disable: var(--viu-color-neutral-400);
-
---viu-color-action-text-onsecondary-default: var(--viu-color-primary-sky-600);
-
---viu-color-action-text-onsecondary-hover: var(--viu-color-primary-sky-700);
-
---viu-color-action-text-onsecondary-focus: var(--viu-color-primary-sky-800);
-
---viu-color-action-text-onsecondary-disable: var(--viu-color-neutral-400);
-
 --viu-color-action-border-primary-default: var(--viu-color-primary-sky-600);
 
 --viu-color-action-border-primary-hover: var(--viu-color-primary-sky-700);
@@ -214,4 +198,28 @@
 --viu-color-feeback-text-onsafe-focus: var(--viu-color-neutral-700);
 
 --viu-color-feeback-text-onsafe-disable: var(--viu-color-neutral-700);
+
+--viu-color-action-text-button-onprimary-focus: var(--viu-color-neutral-100);
+
+--viu-color-action-text-button-onprimary-hover: var(--viu-color-neutral-100);
+
+--viu-color-action-text-button-onprimary-default: var(--viu-color-neutral-100);
+
+--viu-color-action-text-button-onprimary-disable: var(--viu-color-neutral-400);
+
+--viu-color-action-text-button-onsecondary-focus: var(--viu-color-primary-sky-800);
+
+--viu-color-action-text-button-onsecondary-hover: var(--viu-color-primary-sky-700);
+
+--viu-color-action-text-button-onsecondary-default: var(--viu-color-primary-sky-600);
+
+--viu-color-action-text-button-onsecondary-disable: var(--viu-color-neutral-400);
+
+--viu-color-action-text-link-focus: var(--viu-color-primary-sky-800);
+
+--viu-color-action-text-link-hover: var(--viu-color-primary-sky-700);
+
+--viu-color-action-text-link-default: var(--viu-color-primary-sky-600);
+
+--viu-color-action-text-link-disable: var(--viu-color-neutral-400);
 }
