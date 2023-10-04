@@ -34,27 +34,27 @@ color: #212529;
 
 /* Primary BTN */
 .btn-primary {
-  color: var(--viu-color-action-text-onprimary-default); 
+  color: var(--viu-color-action-text-button-onprimary-default); 
   background-color: var(--viu-color-action-background-primary-default); 
   border: var(--viu-border-action-button-primary-default);
   border-radius: var(--viu-measure-borderradius-button);
   margin-right: var(--viu-measure-spacing-button-margin);
 }
 .btn-primary:hover {
-  color: var(--viu-color-action-text-onprimary-hover); 
+  color: var(--viu-color-action-text-button-onprimary-hover); 
   background-color: var(--viu-color-action-background-primary-hover); 
   border: var(--viu-border-action-button-primary-hover);
 }
 
 /* Secondary BTN */
 .btn-secondary {
-    color: var(--viu-color-action-text-onsecondary-default); 
+    color: var(--viu-color-action-text-button-onsecondary-default); 
     background-color: var(--viu-color-action-background-secondary-default); 
     border: var(--viu-border-button-secondary-default);
     border-radius: var(--viu-measure-borderradius-button);
     }
 .btn-secondary:hover {
-    color: var(--viu-color-action-text-onsecondary-hover); 
+    color: var(--viu-color-action-text-button-onsecondary-hover); 
     background-color: var(--viu-color-action-background-secondary-hover); 
     border: var(--viu-border-button-secondary-hover);
     }
@@ -63,11 +63,13 @@ color: #212529;
 
 /* Links */
 a {
-  color: var(--colorActionTextOnsecondaryDefault); 
+  color: var(--viu-color-action-text-link-default);
+  font-size: var(--viu-measure-fontsize-links-regular);
+  line-height: var(--viu-measure-lineheight-links-regular);
   text-decoration: underline;
 }
 a:hover {
-  color: var(--colorActionTextOnsecondaryHover); 
+  color: var(---viu-color-action-text-link-hover); 
 }
 
 
