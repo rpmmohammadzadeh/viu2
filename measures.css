@@ -139,6 +139,16 @@
 
 --viu-measure-fontsize-18: 11.2rem;
 
+--viu-measure-borderradius-xs: 0.4rem;
+
+--viu-measure-borderradius-s: 0.8rem;
+
+--viu-measure-borderradius-m: 1.6rem;
+
+--viu-measure-borderradius-l: 2.4rem;
+
+--viu-measure-borderradius-xl: 3.2rem;
+
 --viu-measure-lineheight-heading-h1-mobile: var(--viu-measure-lineheight-17);
 
 --viu-measure-lineheight-heading-h1-tablet: var(--viu-measure-lineheight-10);
