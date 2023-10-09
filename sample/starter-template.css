@@ -1,7 +1,7 @@
 /* VIU core CSS */
 /* @import url(assets/dist/css/bootstrap.css); */
-@import url(../colors.css);
 @import url(../measures.css);
+@import url(../colors.css);
 @import url(../borders.css);
 @import url(../gradients.css);
 @import url(../elevation.css);
@@ -13,6 +13,7 @@
 @import url(links.css); /* VIU links CSS */
 @import url(icons.css); /* VIU icons CSS */
 @import url(tabs.css); /* VIU icons CSS */
+
 
 body{
   font:var(--viu-typography-general-body);

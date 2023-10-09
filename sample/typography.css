@@ -12,7 +12,30 @@ p{
     margin-bottom: var(--viu-measure-spacing-content-bodytext);   
 }
 
-
+.body{font: var(--viu-typography-general-body);}
+.body-bold{font: var(--viu-typography-general-body-bold);}
+.bold-underlined{font: var(--viu-typography-general-body-bold-underlined);}
+.body-uppercase{font: var(--viu-typography-general-body-uppercase);}
+.body-bold-list{font: var(--viu-typography-general-body-bold-list);}
+.body-long{font: var(--viu-typography-general-body-long);}
+.body-long-bold{font: var(--viu-typography-general-body-long-bold);}
+.body-long-bold-underlined{font: var(--viu-typography-general-body-long-bold-underlined);}
+.body-small-cta{font: var(--viu-typography-general-body-small-cta);}
+.small{font: var(--viu-typography-general-small);}
+.small-bold{font: var(--viu-typography-general-small-bold);}
+.small-bold-underlined{font: var(--viu-typography-general-small-bold-underlined);}
+.small-bold-crossed{font: var(--viu-typography-general-small-bold-crossed);}
+.small-bold-uppercase{font: var(--viu-typography-general-small-bold-uppercase);}
+.tiny{font: var(--viu-typography-general-tiny);}
+.tiny-bold{font: var(--viu-typography-general-tiny-bold);}
+.tiny-bold-underlined{font: var(--viu-typography-general-tiny-bold-underlined);}
+.tiny-bold-uppercase{font: var(--viu-typography-general-tiny-bold-uppercase);}
+.additional-subscript{font: var(--viu-typography-general-additional-subscript);}
+.body{font: var(--viu-typography-general-additional-superscript);}
+.additional-blockquote-body{font: var(--viu-typography-general-additional-blockquote-body);}
+.additional-blockquote-header{font: var(--viu-typography-general-additional-blockquote-header);}
+.additional-bullet-text{font: var(--viu-typography-general-additional-bullet-text);}
+.additional-bullet-text-secon-level{font: var(--viu-typography-general-additional-bullet-text-secon-level);}
 
 
 @media (min-width:576px){

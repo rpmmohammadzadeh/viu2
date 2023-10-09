@@ -35,7 +35,7 @@ input:checked + label {
   display: block;
   animation-name: inUp;
   animation-timing-function: ease-in-out;
-  animation-duration: .6s;
+  animation-duration: .5s;
 }
 
 @keyframes inUp {
@@ -44,7 +44,7 @@ input:checked + label {
     transform: translateY(100px)
   }
     90%{
-    transform: translateY(-10px)
+    transform: translateY(-5px)
   }
   100% {
     opacity: 1;
