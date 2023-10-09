@@ -1,175 +1,30 @@
 /* VIU core CSS */
-@import url(assets/dist/css/bootstrap.css);
+/* @import url(assets/dist/css/bootstrap.css); */
 @import url(../colors.css);
 @import url(../measures.css);
 @import url(../borders.css);
 @import url(../gradients.css);
 @import url(../elevation.css);
 @import url(../typography.css);
+@import url(typography.css); /* VIU typography CSS */
+@import url(layout.css); /* VIU layout CSS */
+@import url(buttons.css); /* VIU button CSS */
+@import url(cards.css); /* VIU cards CSS */
+@import url(links.css); /* VIU links CSS */
+@import url(icons.css); /* VIU icons CSS */
+@import url(tabs.css); /* VIU icons CSS */
 
-
-  .icon-list {
-    padding-left: 0;
-    list-style: none;
-  }
-  .icon-list li {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: .25rem;
-  }
-  .icon-list li::before {
-    display: block;
-    flex-shrink: 0;
-    width: 1.5em;
-    height: 1.5em;
-    margin-right: .5rem;
-    content: "";
-    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23212529' viewBox='0 0 16 16'%3E%3Cpath d='M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z'/%3E%3C/svg%3E") no-repeat center center / 100% auto;
-  }
-    
-  body{
-  font: var(--viu-typography-general-body);
-  color: #212529;
-  }
-
-/* Primary BTN */
-  .btn-primary {
-    color: var(--viu-color-action-text-button-onprimary-default); 
-    background-color: var(--viu-color-action-background-primary-default); 
-    border: var(--viu-border-action-button-primary-default);
-    border-radius: var(--viu-measure-borderradius-button);
-    margin-right: var(--viu-measure-spacing-button-margin);
-  }
-  .btn-primary:hover {
-    color: var(--viu-color-action-text-button-onprimary-hover); 
-    background-color: var(--viu-color-action-background-primary-hover); 
-    border: var(--viu-border-action-button-primary-hover);
-  }
-
-/* Secondary BTN */
-  .btn-secondary {
-    color: var(--viu-color-action-text-button-onsecondary-default); 
-    background-color: var(--viu-color-action-background-secondary-default); 
-    border: var(--viu-border-button-secondary-default);
-    border-radius: var(--viu-measure-borderradius-button);
-    }
-  .btn-secondary:hover {
-    color: var(--viu-color-action-text-button-onsecondary-hover); 
-    background-color: var(--viu-color-action-background-secondary-hover); 
-    border: var(--viu-border-button-secondary-hover);
-    }
-  
-/* Links */
-  a {
-    color: var(--viu-color-action-text-link-default);
-    font-size: var(--viu-measure-fontsize-links-regular);
-    line-height: var(--viu-measure-lineheight-links-regular);
-    text-decoration: underline;
-  }
-  a:hover {
-    color: var(---viu-color-action-text-link-hover); 
-  }
-
-
-
-/* Cards */
-  .card {
-      background-color: var(--viu-color-surface-background-primary-default);
-      border: var(--viu-border-card-default);
-      border-radius: var(--viu-measure-borderradius-card-desktop);
-      box-shadow: var(--viu-elevation-boxshadow-card);
-      padding: var(--viu-measure-spacing-card-verticalpadding-desktop) var(--viu-measure-spacing-card-horizontalpadding-desktop);
-    }
-    .card:hover {
-      background-color: var(--viu-color-surface-background-primary-hover);
-      border: var(--viu-border-card-hover);
-      border-radius: var(--viu-measure-borderradius-card-desktop);
-      box-shadow: none;
-    }
-
-    .mb-xs {margin-bottom: var(--viu-measure-spacing-xs);}
-    .mb-s {margin-bottom: var(--viu-measure-spacing-s);}
-    .mb-m {margin-bottom: var(--viu-measure-spacing-m);}
-    .mb-l {margin-bottom: var(--viu-measure-spacing-l);}
-    .mb-xl {margin-bottom: var(--viu-measure-spacing-xl);}
-    .mb-xxl {margin-bottom: var(--viu-measure-spacing-xxl);}
-
-@media (min-width:960px){
-  .container {
-    padding-top: var(--viu-measure-spacing-section-mobile); 
-    }  
-  h1 {
-    font-size: var(--viu-measure-fontsize-heading-h1-mobile);
-    line-height: var(--viu-measure-lineheight-heading-h1-mbile);
-    letter-spacing: var(--viu-measure-letterspacing-0);
-    margin-bottom: var(--viu-measure-spacing-heading-h1-mobile);
-    }
-  h2 {
-    font-size: var(--viu-measure-fontsize-heading-h2-mobile);
-    line-height: var(--viu-measure-lineheight-heading-h2-mobile);
-    letter-spacing: var(--viu-measure-letterspacing-0);
-    margin-bottom: var(--viu-measure-spacing-heading-h2-mobile);
-    }
-    h3 {
-      font-size: var(--viu-measure-fontsize-heading-h3-mobile);
-      line-height: var(--viu-measure-lineheight-heading-h3-mobile);
-      letter-spacing: var(--viu-measure-letterspacing-0);
-      margin-bottom: var(--viu-measure-spacing-heading-h3-mobile);
-    }
-    h6 {
-      font-size: var(--viu-measure-fontsize-heading-h6-mobile);
-      line-height: var(--viu-measure-lineheight-heading-h6-mobile);
-      letter-spacing: var(--viu-measure-letterspacing-0);
-      margin-bottom: var(--viu-measure-spacing-heading-h6-mobile);
-      }   
-
+body{
+  font:var(--viu-typography-general-body);
+  color:#212529;
 }
-
-@media (min-width:1200px){
-  .container {
-    padding-top: var(--viu-measure-spacing-section-desktop); 
-    }
-  h1 {
-    /*font: var(--viu-typography-desktop-h1);*/
-    font-weight: 500;
-    font-size: var(--viu-measure-fontsize-heading-h1-desktop);
-    line-height: var(--viu-measure-lineheight-heading-h1-desktop);
-    letter-spacing: var(--viu-measure-letterspacing-0);
-    margin-bottom: var(--viu-measure-spacing-heading-h1-desktop);
-    }
-  h2 {
-    font-size: var(--viu-measure-fontsize-heading-h2-desktop);
-    line-height: var(--viu-measure-lineheight-heading-h2-desktop);
-    letter-spacing: var(--viu-measure-letterspacing-0);
-    margin-bottom: var(--viu-measure-spacing-heading-h2-desktop);
-    }
-    h3 {
-      font-size: var(--viu-measure-fontsize-heading-h3-desktop);
-      line-height: var(--viu-measure-lineheight-heading-h3-desktop);
-      letter-spacing: var(--viu-measure-letterspacing-0);
-      margin-bottom: var(--viu-measure-spacing-heading-h3-desktop);
-    }
-    h6 {
-      font-size: var(--viu-measure-fontsize-heading-h6-desktop);
-      line-height: var(--viu-measure-lineheight-heading-h6-desktop);
-      letter-spacing: var(--viu-measure-letterspacing-0);
-      margin-bottom: var(--viu-measure-spacing-heading-h6-desktop);
-      }   
-
-  p{
-    font-size: var(--viu-measure-fontsize-body);
-    line-height: var(--viu-measure-lineheight-body);
-    letter-spacing: var(--viu-measure-letterspacing-0);
-    margin-bottom: var(--viu-measure-spacing-content-bodytext);   
-  }
+header, footer, main{
+  padding-top: var(--viu-measure-spacing-s);
+  padding-bottom: var(--viu-measure-spacing-s);
 }
-
-
-.viu-color {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  margin: 10px;
+.viu-color{
+  display:inline-block;
+  height:100px;
   font:var(--viu-typography-general-tiny);
   line-height: var(--viu-measure-lineheight-content-tiny);
   padding: var(--viu-measure-sizing-0) ;

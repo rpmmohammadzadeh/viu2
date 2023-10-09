@@ -1,0 +1,145 @@
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    }
+
+p{
+    font-size: var(--viu-measure-fontsize-body);
+    line-height: var(--viu-measure-lineheight-body);
+    letter-spacing: var(--viu-measure-letterspacing-0);
+    margin-bottom: var(--viu-measure-spacing-content-bodytext);   
+}
+
+
+
+
+@media (min-width:576px){
+
+        h1 {
+            font-size: var(--viu-measure-fontsize-heading-h1-mobile);
+            line-height: var(--viu-measure-lineheight-heading-h1-mbile);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h1-mobile);
+        }
+        h2 {
+            font-size: var(--viu-measure-fontsize-heading-h2-mobile);
+            line-height: var(--viu-measure-lineheight-heading-h2-mobile);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h2-mobile);
+        }
+        h3 {
+            font-size: var(--viu-measure-fontsize-heading-h3-mobile);
+            line-height: var(--viu-measure-lineheight-heading-h3-mobile);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h3-mobile);
+        }
+        h4 {
+            font-size: var(--viu-measure-fontsize-heading-h4-mobile);
+            line-height: var(--viu-measure-lineheight-heading-h4-mobile);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h4-mobile);
+        }
+        h5 {
+            font-size: var(--viu-measure-fontsize-heading-h5-mobile);
+            line-height: var(--viu-measure-lineheight-heading-h5-mobile);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h5-mobile);
+        }    
+        h6 {
+            font-size: var(--viu-measure-fontsize-heading-h6-mobile);
+            line-height: var(--viu-measure-lineheight-heading-h6-mobile);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h6-mobile);
+            } 
+
+    }
+    @media (min-width:744px){
+        h1 {
+            font-weight: 500;
+            font-size: var(--viu-measure-fontsize-heading-h1-tablet);
+            line-height: var(--viu-measure-lineheight-heading-h1-tablet);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h1-tablet);
+          }
+        h2 {
+            font-size: var(--viu-measure-fontsize-heading-h2-tablet);
+            line-height: var(--viu-measure-lineheight-heading-h2-tablet);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h2-tablet);
+          }
+        h3 {
+            font-size: var(--viu-measure-fontsize-heading-h3-tablet);
+            line-height: var(--viu-measure-lineheight-heading-h3-tablet);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h3-tablet);
+          }
+         h4 {
+            font-size: var(--viu-measure-fontsize-heading-h4-tablet);
+            line-height: var(--viu-measure-lineheight-heading-h4-tablet);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h4-tablet);
+          }
+        h5 {
+            font-size: var(--viu-measure-fontsize-heading-h5-tablet);
+            line-height: var(--viu-measure-lineheight-heading-h5-tablet);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h5-tablet);
+          }        
+        h6 {
+            font-size: var(--viu-measure-fontsize-heading-h6-tablet);
+            line-height: var(--viu-measure-lineheight-heading-h6-tablet);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h6-tablet);
+            }           
+
+    }
+    @media (min-width:960px){
+ 
+
+    }
+    @media (min-width:1200px){
+ 
+        h1 {
+            font-weight: 500;
+            font-size: var(--viu-measure-fontsize-heading-h1-desktop);
+            line-height: var(--viu-measure-lineheight-heading-h1-desktop);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h1-desktop);
+          }
+        h2 {
+            font-size: var(--viu-measure-fontsize-heading-h2-desktop);
+            line-height: var(--viu-measure-lineheight-heading-h2-desktop);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h2-desktop);
+          }
+        h3 {
+            font-size: var(--viu-measure-fontsize-heading-h3-desktop);
+            line-height: var(--viu-measure-lineheight-heading-h3-desktop);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h3-desktop);
+          }
+        h4 {
+            font-size: var(--viu-measure-fontsize-heading-h4-desktop);
+            line-height: var(--viu-measure-lineheight-heading-h4-desktop);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h4-desktop);
+          }
+        h5 {
+            font-size: var(--viu-measure-fontsize-heading-h5-desktop);
+            line-height: var(--viu-measure-lineheight-heading-h5-desktop);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h5-desktop);
+          }        
+        h6 {
+            font-size: var(--viu-measure-fontsize-heading-h6-desktop);
+            line-height: var(--viu-measure-lineheight-heading-h6-desktop);
+            letter-spacing: var(--viu-measure-letterspacing-0);
+            margin-bottom: var(--viu-measure-spacing-heading-h6-desktop);
+            }    
+
+    }
+    @media (min-width:1440px){
+
+    }

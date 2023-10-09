@@ -1,0 +1,83 @@
+    
+    /* Layout */
+    *, ::after, ::before {box-sizing: border-box;}
+    .row{display: flex; flex-wrap: wrap;}
+    .col {flex: 1 0 0%;}
+    
+
+    .row>* {
+        flex-shrink: 0;
+        width: 100%;
+        max-width: 100%;
+        /* padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5); 
+        margin-top: var(--bs-gutter-y);*/
+    }
+
+
+    /* Spacing */
+    .row{padding: 0; margin: 0;}
+    .row div{margin-right:0;}
+    .row.gutter-xs div{margin-right: var(--viu-measure-spacing-xs)}
+    .row.gutter-s div{margin-right: var(--viu-measure-spacing-s)}
+    .row.gutter-m div{margin-right: var(--viu-measure-spacing-m)}
+    .row.gutter-m div{margin-right: var(--viu-measure-spacing-l)}
+    .row.gutter-xl div{margin-right: var(--viu-measure-spacing-xl)}
+    .row div:last-child{margin-right: 0; }
+
+    .mb-xs {margin-bottom: var(--viu-measure-spacing-xs);}
+    .mb-s {margin-bottom: var(--viu-measure-spacing-s);}
+    .mb-m {margin-bottom: var(--viu-measure-spacing-m);}
+    .mb-l {margin-bottom: var(--viu-measure-spacing-l);}
+    .mb-xl {margin-bottom: var(--viu-measure-spacing-xl);}
+    .mb-xxl {margin-bottom: var(--viu-measure-spacing-xxl);}
+
+
+
+    .container{
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        }
+        
+        @media (min-width:576px){
+        .container, .container-sm {
+            max-width: 540px;
+            }
+        .section {
+            padding-top: var(--viu-measure-spacing-section-mobile); 
+            }
+        }
+        @media (min-width:744px){
+        .container{
+            max-width: 704px;
+            }
+        .section {
+            padding-top: var(--viu-measure-spacing-section-tabelt); 
+            }
+        }
+        @media (min-width:960px){
+        .container{
+            max-width: 920px;
+            }
+        .section {
+            padding-top: var(--viu-measure-spacing-section-tabelt); 
+            }
+        }
+        @media (min-width:1200px){
+        .container{
+            max-width: 1160px;
+            }
+        .section {
+            padding-top: var(--viu-measure-spacing-section-desktop); 
+            }
+        }
+        @media (min-width:1440px){
+        .container{
+            max-width: 1400px;
+            }
+        .section {
+            padding-top: var(--viu-measure-spacing-section-desktop); 
+            }
+        }
+          

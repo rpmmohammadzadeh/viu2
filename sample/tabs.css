@@ -1,0 +1,53 @@
+.tab-content{
+    backface-visibility: hidden;
+  }
+.tab-content > div {
+    display: none;
+  }
+input {
+  display: none;
+}
+label {
+  display: inline-block;
+  font-size: var(--viu-measure-fontsize-body);
+  padding-top: var(--viu-measure-spacing-xs);
+  padding-bottom: var(--viu-measure-spacing-s);
+  margin-right:var(--viu-measure-spacing-s);
+  text-align: center;
+  border-bottom: 1px solid transparent;
+  transition: all .3s ease-out 0.1s;
+}
+label:hover {
+  color: var(--viu-color-action-background-primary-hover);
+  cursor: pointer;
+}
+input:checked + label {
+  background: var(--viu-color-action-background-secondary-default);
+  color: var(--viu-color-neutral-800);
+  font-weight:600;
+  border-bottom: 4px solid var(--viu-color-secondary-sunset-500);
+}
+
+#tab-1:checked ~ .tab-content #content-1,
+#tab-2:checked ~ .tab-content #content-2,
+#tab-3:checked ~ .tab-content #content-3,
+#tab-4:checked ~ .tab-content #content-4 {
+  display: block;
+  animation-name: inUp;
+  animation-timing-function: ease-in-out;
+  animation-duration: .6s;
+}
+
+@keyframes inUp {
+  0%{
+    opacity: 0;
+    transform: translateY(100px)
+  }
+    90%{
+    transform: translateY(-10px)
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0)
+  }
+}

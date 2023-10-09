@@ -1,0 +1,48 @@
+/* Primary BTN */
+
+
+    .btn {
+        display: inline-block;
+        line-height: 1.5;
+        text-align: center;
+        text-decoration: none;
+        vertical-align: middle;
+        cursor: pointer;
+        user-select: none;
+        padding: .375rem .75rem;
+        transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+    .btn-group-lg>.btn, .btn-lg {
+        padding: .5rem 1rem;
+        font-size: 1.25rem;
+        border-radius: .3rem;
+    }
+    .px-4 {
+        padding-right: 1.5rem!important;
+        padding-left: 1.5rem!important;
+    }      
+    .btn-primary {
+        color: var(--viu-color-action-text-button-onprimary-default); 
+        background-color: var(--viu-color-action-background-primary-default); 
+        border: var(--viu-border-action-button-primary-default);
+        border-radius: var(--viu-measure-borderradius-button);
+        margin-right: var(--viu-measure-spacing-button-margin);
+    }
+    .btn-primary:hover {
+        color: var(--viu-color-action-text-button-onprimary-hover); 
+        background-color: var(--viu-color-action-background-primary-hover); 
+        border: var(--viu-border-action-button-primary-hover);
+    }
+
+    /* Secondary BTN */
+    .btn-secondary {
+        color: var(--viu-color-action-text-button-onsecondary-default); 
+        background-color: var(--viu-color-action-background-secondary-default); 
+        border: var(--viu-border-button-secondary-default);
+        border-radius: var(--viu-measure-borderradius-button);
+    }
+    .btn-secondary:hover {
+        color: var(--viu-color-action-text-button-onsecondary-hover); 
+        background-color: var(--viu-color-action-background-secondary-hover); 
+        border: var(--viu-border-button-secondary-hover);
+    }

@@ -1,0 +1,10 @@
+/* Links */
+  a {
+    color: var(--viu-color-action-text-link-default);
+    font-size: var(--viu-measure-fontsize-links-regular);
+    line-height: var(--viu-measure-lineheight-links-regular);
+    text-decoration: underline;
+  }
+  a:hover {
+    color: var(---viu-color-action-text-link-hover); 
+  }

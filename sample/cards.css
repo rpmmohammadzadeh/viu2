@@ -1,0 +1,23 @@
+/* Cards */
+  .card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+      word-wrap: break-word;
+      background-color: #fff;
+      background-clip: border-box;
+    }
+  .card {
+      background-color: var(--viu-color-surface-background-primary-default);
+      border: var(--viu-border-card-default);
+      border-radius: var(--viu-measure-borderradius-card-desktop);
+      box-shadow: var(--viu-elevation-boxshadow-card);
+      padding: var(--viu-measure-spacing-card-verticalpadding-desktop) var(--viu-measure-spacing-card-horizontalpadding-desktop);
+    }
+    .card:hover {
+      background-color: var(--viu-color-surface-background-primary-hover);
+      border: var(--viu-border-card-hover);
+      border-radius: var(--viu-measure-borderradius-card-desktop);
+      box-shadow: none;
+    }
