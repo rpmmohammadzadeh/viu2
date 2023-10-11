@@ -157,7 +157,7 @@
 
 --viu-measure-lineheight-body: var(--viu-measure-lineheight-0);
 
---viu-measure-spacing-button-margin: var(--viu-measure-spacing-s);
+--viu-measure-spacing-button-margin: var(--viu-measure-spacing-l);
 
 --viu-measure-spacing-button-padding: var(--viu-measure-spacing-s);
 
@@ -197,7 +197,7 @@
 
 --viu-measure-spacing-heading-h6-mobile: var(--viu-measure-spacing-xs);
 
---viu-measure-spacing-content-bodytext: var(--viu-measure-spacing-l);
+--viu-measure-spacing-content-bodytext: var(--viu-measure-spacing-xl);
 
 --viu-measure-spacing-content-smalltext: var(--viu-measure-spacing-xs);
 
