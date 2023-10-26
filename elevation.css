@@ -19,5 +19,7 @@
 
 --viu-elevation-left-shadow: -1.5rem 0rem 2rem 0rem hsla(214,37%,12%,0.1);
 
+--viu-elevation-combined-shadow: 2.4rem 0rem 0rem 3.2rem hsla(0,0%,0%,1);
+
 --viu-elevation-boxshadow-card: var(--viu-elevation-soft-shadow);
 }
