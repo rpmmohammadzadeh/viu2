@@ -17,59 +17,45 @@
 
 --viu-color-neutral-800: hsla(214,37%,12%,1);
 
---viu-color-specialty-sky-blue-dark: hsla(207,75%,50%,1);
+--viu-color-sky-400: hsla(205,74%,95%,1);
 
---viu-color-specialty-sky-blue-light: hsla(207,70%,62%,1);
+--viu-color-sky-500: hsla(207,77%,56%,1);
 
---viu-color-specialty-sky-blue-pale: hsla(205,74%,95%,1);
+--viu-color-sky-600: hsla(207,73%,45%,1);
 
---viu-color-specialty-christmas-dark: hsla(140,37%,58%,1);
+--viu-color-sky-700: hsla(207,70%,38%,1);
 
---viu-color-specialty-christmas-light: hsla(140,38%,69%,1);
+--viu-color-sky-800: hsla(207,72%,31%,1);
 
---viu-color-specialty-christmas-pale: hsla(140,29%,90%,1);
+--viu-color-salmon-400: hsla(4,26%,89%,1);
 
---viu-color-specialty-salmon-dark: hsla(5,71%,62%,1);
+--viu-color-salmon-500: hsla(5,83%,66%,1);
 
---viu-color-specialty-salmon-light: hsla(6,91%,74%,1);
+--viu-color-salmon-600: hsla(5,60%,53%,1);
 
---viu-color-specialty-salmon-pale: hsla(4,26%,89%,1);
+--viu-color-salmon-700: hsla(5,56%,44%,1);
 
---viu-color-specialty-sunset-dark: hsla(40,82%,59%,1);
+--viu-color-salmon-800: hsla(5,61%,36%,1);
 
---viu-color-specialty-sunset-light: hsla(39,97%,71%,1);
+--viu-color-sunset-400: hsla(39,31%,89%,1);
 
---viu-color-specialty-sunset-pale: hsla(39,31%,89%,1);
+--viu-color-sunset-500: hsla(40,90%,64%,1);
 
---viu-color-transparent-sky: hsla(207,77%,56%,0.2);
+--viu-color-sunset-600: hsla(30,82%,38%,1);
 
---viu-color-primary-sky-500: hsla(207,77%,56%,1);
+--viu-color-sunset-700: hsla(30,91%,30%,1);
 
---viu-color-primary-sky-600: hsla(207,73%,45%,1);
+--viu-color-sunset-800: hsla(25,82%,28%,1);
 
---viu-color-primary-sky-700: hsla(207,70%,38%,1);
+--viu-color-christmas-400: hsla(140,29%,90%,1);
 
---viu-color-primary-sky-800: hsla(207,72%,31%,1);
+--viu-color-christmas-500: hsla(139,39%,63%,1);
 
---viu-color-secondary-salmon-500: hsla(5,83%,66%,1);
+--viu-color-christmas-600: hsla(139,52%,35%,1);
 
---viu-color-secondary-salmon-600: hsla(5,60%,53%,1);
+--viu-color-christmas-700: hsla(139,57%,27%,1);
 
---viu-color-secondary-salmon-700: hsla(5,56%,44%,1);
-
---viu-color-secondary-salmon-800: hsla(5,61%,36%,1);
-
---viu-color-secondary-christmas-500: hsla(139,39%,63%,1);
-
---viu-color-secondary-christmas-600: hsla(139,52%,35%,1);
-
---viu-color-secondary-christmas-800: hsla(139,67%,22%,1);
-
---viu-color-secondary-sunset-500: hsla(40,90%,64%,1);
-
---viu-color-secondary-sunset-700: hsla(30,91%,30%,1);
-
---viu-color-secondary-sunset-800: hsla(25,82%,28%,1);
+--viu-color-christmas-800: hsla(139,67%,22%,1);
 
 --viu-color-surface-background-primary-default: var(--viu-color-neutral-100);
 
@@ -95,11 +81,11 @@
 
 --viu-color-surface-text-onsecondary-disable: var(--viu-color-neutral-400);
 
---viu-color-action-background-primary-default: var(--viu-color-primary-sky-600);
+--viu-color-action-background-primary-default: var(--viu-color-sky-600);
 
---viu-color-action-background-primary-hover: var(--viu-color-primary-sky-700);
+--viu-color-action-background-primary-hover: var(--viu-color-sky-700);
 
---viu-color-action-background-primary-focus: var(--viu-color-primary-sky-800);
+--viu-color-action-background-primary-focus: var(--viu-color-sky-800);
 
 --viu-color-action-background-primary-disable: var(--viu-color-neutral-300);
 
@@ -111,67 +97,67 @@
 
 --viu-color-action-background-secondary-disable: var(--viu-color-neutral-100);
 
---viu-color-action-border-primary-default: var(--viu-color-primary-sky-600);
+--viu-color-action-border-primary-default: var(--viu-color-sky-600);
 
---viu-color-action-border-primary-hover: var(--viu-color-primary-sky-700);
+--viu-color-action-border-primary-hover: var(--viu-color-sky-700);
 
 --viu-color-action-border-primary-focus: var(--viu-color-neutral-800);
 
 --viu-color-action-border-primary-disable: var(--viu-color-neutral-300);
 
---viu-color-action-border-secondary-default: var(--viu-color-primary-sky-600);
+--viu-color-action-border-secondary-default: var(--viu-color-sky-600);
 
---viu-color-action-border-secondary-hover: var(--viu-color-primary-sky-700);
+--viu-color-action-border-secondary-hover: var(--viu-color-sky-700);
 
---viu-color-action-border-secondary-focus: var(--viu-color-primary-sky-800);
+--viu-color-action-border-secondary-focus: var(--viu-color-sky-800);
 
 --viu-color-action-border-secondary-disable: var(--viu-color-neutral-300);
 
---viu-color-feeback-background-warning-default: var(--viu-color-secondary-sunset-500);
+--viu-color-feeback-background-warning-default: var(--viu-color-sunset-500);
 
---viu-color-feeback-background-warning-hover: var(--viu-color-secondary-sunset-700);
+--viu-color-feeback-background-warning-hover: var(--viu-color-sunset-700);
 
---viu-color-feeback-background-warning-focus: var(--viu-color-secondary-sunset-800);
+--viu-color-feeback-background-warning-focus: var(--viu-color-sunset-800);
 
 --viu-color-feeback-background-warning-disable: var(--viu-color-neutral-300);
 
---viu-color-feeback-background-error-default: var(--viu-color-secondary-salmon-600);
+--viu-color-feeback-background-error-default: var(--viu-color-salmon-600);
 
---viu-color-feeback-background-error-hover: var(--viu-color-secondary-salmon-700);
+--viu-color-feeback-background-error-hover: var(--viu-color-salmon-700);
 
---viu-color-feeback-background-error-focus: var(--viu-color-secondary-salmon-800);
+--viu-color-feeback-background-error-focus: var(--viu-color-salmon-800);
 
 --viu-color-feeback-background-error-disable: var(--viu-color-neutral-300);
 
---viu-color-feeback-background-safe-default: var(--viu-color-secondary-christmas-500);
+--viu-color-feeback-background-safe-default: var(--viu-color-christmas-500);
 
---viu-color-feeback-background-safe-hover: var(--viu-color-secondary-christmas-600);
+--viu-color-feeback-background-safe-hover: var(--viu-color-christmas-600);
 
---viu-color-feeback-background-safe-focus: var(--viu-color-secondary-christmas-800);
+--viu-color-feeback-background-safe-focus: var(--viu-color-christmas-800);
 
 --viu-color-feeback-background-safe-disable: var(--viu-color-neutral-300);
 
---viu-color-feeback-border-warning-default: var(--viu-color-secondary-sunset-700);
+--viu-color-feeback-border-warning-default: var(--viu-color-sunset-700);
 
---viu-color-feeback-border-warning-hover: var(--viu-color-secondary-sunset-700);
+--viu-color-feeback-border-warning-hover: var(--viu-color-sunset-700);
 
---viu-color-feeback-border-warning-focus: var(--viu-color-secondary-sunset-700);
+--viu-color-feeback-border-warning-focus: var(--viu-color-sunset-700);
 
 --viu-color-feeback-border-warning-disable: var(--viu-color-neutral-400);
 
---viu-color-feeback-border-error-default: var(--viu-color-secondary-salmon-800);
+--viu-color-feeback-border-error-default: var(--viu-color-salmon-800);
 
---viu-color-feeback-border-error-hover: var(--viu-color-secondary-salmon-800);
+--viu-color-feeback-border-error-hover: var(--viu-color-salmon-800);
 
---viu-color-feeback-border-error-focus: var(--viu-color-secondary-salmon-800);
+--viu-color-feeback-border-error-focus: var(--viu-color-salmon-800);
 
 --viu-color-feeback-border-error-disable: var(--viu-color-neutral-400);
 
---viu-color-feeback-border-safe-default: var(--viu-color-secondary-christmas-600);
+--viu-color-feeback-border-safe-default: var(--viu-color-christmas-600);
 
---viu-color-feeback-border-safe-hover: var(--viu-color-secondary-christmas-600);
+--viu-color-feeback-border-safe-hover: var(--viu-color-christmas-600);
 
---viu-color-feeback-border-safe-focus: var(--viu-color-secondary-christmas-600);
+--viu-color-feeback-border-safe-focus: var(--viu-color-christmas-600);
 
 --viu-color-feeback-border-safe-disable: var(--viu-color-neutral-400);
 
@@ -207,19 +193,19 @@
 
 --viu-color-action-text-button-onprimary-disable: var(--viu-color-neutral-400);
 
---viu-color-action-text-button-onsecondary-focus: var(--viu-color-primary-sky-800);
+--viu-color-action-text-button-onsecondary-focus: var(--viu-color-sky-800);
 
---viu-color-action-text-button-onsecondary-hover: var(--viu-color-primary-sky-700);
+--viu-color-action-text-button-onsecondary-hover: var(--viu-color-sky-700);
 
---viu-color-action-text-button-onsecondary-default: var(--viu-color-primary-sky-600);
+--viu-color-action-text-button-onsecondary-default: var(--viu-color-sky-600);
 
 --viu-color-action-text-button-onsecondary-disable: var(--viu-color-neutral-400);
 
---viu-color-action-text-link-focus: var(--viu-color-primary-sky-800);
+--viu-color-action-text-link-focus: var(--viu-color-sky-800);
 
---viu-color-action-text-link-hover: var(--viu-color-primary-sky-700);
+--viu-color-action-text-link-hover: var(--viu-color-sky-700);
 
---viu-color-action-text-link-default: var(--viu-color-primary-sky-600);
+--viu-color-action-text-link-default: var(--viu-color-sky-600);
 
 --viu-color-action-text-link-disable: var(--viu-color-neutral-400);
 }
