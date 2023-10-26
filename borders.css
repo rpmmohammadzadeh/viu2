@@ -1,27 +1,27 @@
 
 :root {
 
---viu-border-button-primary-focus: 0.1rem solid var(--viu-color-primary-sky-800);
+--viu-border-button-primary-focus: 0.1rem solid var(--viu-color-sky-800);
 
---viu-border-button-primary-hover: 0.1rem solid var(--viu-color-primary-sky-700);
+--viu-border-button-primary-hover: 0.1rem solid var(--viu-color-sky-700);
 
---viu-border-button-primary-default: 0.1rem solid var(--viu-color-primary-sky-600);
+--viu-border-button-primary-default: 0.1rem solid var(--viu-color-sky-600);
 
 --viu-border-button-primary-disabled: 0.1rem solid var(--viu-color-neutral-400);
 
---viu-border-button-secondary-focus: 0.1rem solid var(--viu-color-primary-sky-800);
+--viu-border-button-secondary-focus: 0.1rem solid var(--viu-color-sky-800);
 
---viu-border-button-secondary-hover: 0.1rem solid var(--viu-color-primary-sky-700);
+--viu-border-button-secondary-hover: 0.1rem solid var(--viu-color-sky-700);
 
---viu-border-button-secondary-default: 0.1rem solid var(--viu-color-primary-sky-600);
+--viu-border-button-secondary-default: 0.1rem solid var(--viu-color-sky-600);
 
 --viu-border-button-secondary-disabled: 0.1rem solid var(--viu-color-neutral-400);
 
 --viu-border-card-default: 0.1rem solid var(--viu-color-neutral-100);
 
---viu-border-card-hover: 0.1rem solid var(--viu-color-primary-sky-600);
+--viu-border-card-hover: 0.1rem solid var(--viu-color-sky-600);
 
---viu-border-card-focus: 0.1rem solid var(--viu-color-primary-sky-800);
+--viu-border-card-focus: 0.1rem solid var(--viu-color-sky-800);
 
 --viu-border-card-disabled: 0.1rem solid var(--viu-color-neutral-100);
 }
